@@ -1,0 +1,26 @@
+[
+  {
+    "id": "the-lords-prayer",
+    "title": "The Lord's Prayer",
+    "altTitles": ["Our Father", "Pater Noster"],
+    "tradition": "Common",
+    "category": "Foundational",
+    "tags": ["jesus", "kingdom", "forgiveness", "daily", "gospel"],
+    "text": "Our Father, who art in heaven,\nhallowed be thy name;\nthy kingdom come,\nthy will be done,\non earth as it is in heaven.\nGive us this day our daily bread;\nand forgive us our trespasses,\nas we forgive those who trespass against us;\nand lead us not into temptation,\nbut deliver us from evil.\nAmen.",
+    "language": "English (traditional)",
+    "source": "Matthew 6:9–13; Luke 11:2–4",
+    "occasion": "Daily; in nearly every Christian service"
+  },
+  {
+    "id": "the-jesus-prayer",
+    "title": "The Jesus Prayer",
+    "altTitles": ["The Prayer of the Heart"],
+    "tradition": "Eastern Orthodox",
+    "category": "Devotional",
+    "tags": ["mercy", "repentance", "hesychasm", "breath", "name of jesus"],
+    "text": "Lord Jesus Christ, Son of God,\nhave mercy on me, a sinner.",
+    "language": "English (traditional)",
+    "source": "Eastern Christian tradition; cf. Luke 18:38",
+    "occasion": "Continual prayer; the prayer rope (chotki)"
+  }
+]
