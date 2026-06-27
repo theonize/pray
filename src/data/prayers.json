@@ -1,0 +1,2317 @@
+[
+  {
+    "id": "a-child-s-bedtime-prayer",
+    "title": "A Child's Bedtime Prayer",
+    "altTitles": [
+      "Now I lay me down to sleep",
+      "Child's evening prayer"
+    ],
+    "tradition": "Common",
+    "category": "Occasional",
+    "tags": [
+      "bedtime",
+      "children",
+      "sleep",
+      "night",
+      "child",
+      "evening"
+    ],
+    "text": "Now I lay me down to sleep,\nI pray the Lord my soul to keep;\nIf I should die before I wake,\nI pray the Lord my soul to take.\nAmen.",
+    "language": "English (traditional)",
+    "source": "Traditional children's bedtime prayer (first printed in The New England Primer, 18th century)",
+    "occasion": "Children's prayer at bedtime"
+  },
+  {
+    "id": "a-collect-at-compline-night-prayer",
+    "title": "A Collect at Compline (Night Prayer)",
+    "altTitles": [
+      "Be present, O merciful God",
+      "Compline Collect",
+      "Visit, we beseech thee, O Lord, this place"
+    ],
+    "tradition": "Anglican",
+    "category": "Daily Office",
+    "tags": [
+      "compline",
+      "night prayer",
+      "collect",
+      "protection",
+      "sleep",
+      "evening"
+    ],
+    "text": "Be present, O merciful God, and protect us through the silent hours of this night, so that we who are wearied by the changes and chances of this fleeting world, may repose upon thy eternal changelessness; through Jesus Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Collect at Compline (Sarum / Book of Common Prayer tradition)",
+    "occasion": "Compline / Night Prayer before sleep"
+  },
+  {
+    "id": "a-common-grace",
+    "title": "A Common Grace",
+    "altTitles": [
+      "For What We Are About to Receive",
+      "Simple Table Blessing"
+    ],
+    "tradition": "Protestant",
+    "category": "Table Grace",
+    "tags": [
+      "grace",
+      "blessing",
+      "meal",
+      "table",
+      "thanksgiving",
+      "food",
+      "common"
+    ],
+    "text": "For what we are about to receive,\nMay the Lord make us truly thankful. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Protestant table grace, public domain.",
+    "occasion": "Prayed as a brief blessing before meals; everyday table grace."
+  },
+  {
+    "id": "a-general-confession-daily-worship",
+    "title": "A General Confession (Daily Worship)",
+    "altTitles": [
+      "Methodist Confession of Sin",
+      "Evening Confession"
+    ],
+    "tradition": "Methodist",
+    "category": "Penitential",
+    "tags": [
+      "confession",
+      "repentance",
+      "methodist",
+      "mercy",
+      "forgiveness",
+      "sin",
+      "evening prayer"
+    ],
+    "text": "Almighty and most merciful Father,\nwe have erred and strayed from thy ways like lost sheep.\nWe have followed too much the devices and desires of our own hearts.\nWe have offended against thy holy laws.\nWe have left undone those things which we ought to have done,\nand we have done those things which we ought not to have done.\nBut thou, O Lord, have mercy upon us.\nSpare thou those who confess their faults.\nRestore thou those who are penitent,\naccording to thy promises declared unto mankind in Christ Jesus our Lord.\nAnd grant, O most merciful Father, for his sake,\nthat we may hereafter live a godly, righteous, and sober life,\nto the glory of thy holy Name. Amen.",
+    "language": "English (traditional)",
+    "source": "General Confession adapted in John Wesley's Sunday Service for the Methodists in North America (1784), from the Book of Common Prayer (1662)",
+    "occasion": "Morning and Evening Prayer; public confession of sin"
+  },
+  {
+    "id": "a-general-confession-of-sins",
+    "title": "A General Confession of Sins",
+    "altTitles": [
+      "Confession",
+      "O Almighty God, merciful Father",
+      "Prayer of Confession"
+    ],
+    "tradition": "Lutheran",
+    "category": "Penitential",
+    "tags": [
+      "confession",
+      "repentance",
+      "sin",
+      "forgiveness",
+      "absolution",
+      "mercy",
+      "luther"
+    ],
+    "text": "O almighty God, merciful Father, I, a poor, miserable sinner, confess unto Thee all my sins and iniquities with which I have ever offended Thee and justly deserved Thy temporal and eternal punishment. But I am heartily sorry for them, and sincerely repent of them, and I pray Thee of Thy boundless mercy and for the sake of the holy, innocent, bitter sufferings and death of Thy beloved Son, Jesus Christ, to be gracious and merciful to me, a poor, sinful being. Amen.",
+    "language": "English (traditional)",
+    "source": "Lutheran liturgical tradition; General Confession from the order of public confession",
+    "occasion": "Confession and absolution; preparation for the Lord's Supper"
+  },
+  {
+    "id": "a-grace-before-meat-wesley",
+    "title": "A Grace Before Meat (Wesley)",
+    "altTitles": [
+      "Wesley's Grace",
+      "Be Present at Our Table, Lord"
+    ],
+    "tradition": "Methodist",
+    "category": "Table Grace",
+    "tags": [
+      "grace",
+      "table",
+      "meal",
+      "wesley",
+      "thanksgiving",
+      "blessing",
+      "food"
+    ],
+    "text": "Be present at our table, Lord;\nbe here and everywhere adored.\nThy creatures bless, and grant that we\nmay feast in paradise with thee. Amen.",
+    "language": "English (traditional)",
+    "source": "Attributed to John Cennick (1741) and popularized in Methodist usage; common Wesleyan table grace",
+    "occasion": "Before meals; table blessing"
+  },
+  {
+    "id": "a-methodist-prayer-of-thanksgiving",
+    "title": "A Methodist Prayer of Thanksgiving",
+    "altTitles": [
+      "General Thanksgiving"
+    ],
+    "tradition": "Methodist",
+    "category": "Thanksgiving",
+    "tags": [
+      "thanksgiving",
+      "gratitude",
+      "methodist",
+      "praise",
+      "mercies",
+      "general thanksgiving"
+    ],
+    "text": "Almighty God, Father of all mercies,\nwe thine unworthy servants do give thee most humble and hearty thanks\nfor all thy goodness and loving-kindness to us and to all men.\nWe bless thee for our creation, preservation,\nand all the blessings of this life;\nbut above all for thine inestimable love\nin the redemption of the world by our Lord Jesus Christ,\nfor the means of grace, and for the hope of glory.\nAnd, we beseech thee, give us that due sense of all thy mercies,\nthat our hearts may be unfeignedly thankful,\nand that we show forth thy praise,\nnot only with our lips, but in our lives;\nby giving up ourselves to thy service,\nand by walking before thee in holiness and righteousness all our days;\nthrough Jesus Christ our Lord,\nto whom, with thee and the Holy Ghost,\nbe all honour and glory, world without end. Amen.",
+    "language": "English (traditional)",
+    "source": "General Thanksgiving, Book of Common Prayer (1662); retained in John Wesley's Sunday Service for the Methodists",
+    "occasion": "Daily prayer; public worship; thanksgiving for God's mercies"
+  },
+  {
+    "id": "a-prayer-for-all-conditions-of-men",
+    "title": "A Prayer for All Conditions of Men",
+    "altTitles": [
+      "O God, the Creator and Preserver of all mankind"
+    ],
+    "tradition": "Anglican",
+    "category": "Intercession",
+    "tags": [
+      "intercession",
+      "all conditions of men",
+      "church",
+      "afflicted",
+      "estate",
+      "comfort",
+      "petition"
+    ],
+    "text": "O God, the Creator and Preserver of all mankind, we humbly beseech thee for all sorts and conditions of men; that thou wouldest be pleased to make thy ways known unto them, thy saving health unto all nations. More especially we pray for the good estate of the Catholick Church; that it may be so guided and governed by thy good Spirit, that all who profess and call themselves Christians may be led into the way of truth, and hold the faith in unity of spirit, in the bond of peace, and in righteousness of life. Finally, we commend to thy fatherly goodness all those who are any ways afflicted, or distressed, in mind, body, or estate; [especially those for whom our prayers are desired;] that it may please thee to comfort and relieve them, according to their several necessities, giving them patience under their sufferings, and a happy issue out of all their afflictions. And this we beg for Jesus Christ his sake. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662; composed by Bishop Edward Reynolds (or Peter Gunning), added 1662",
+    "occasion": "Said at Morning and Evening Prayer when the Litany is not appointed"
+  },
+  {
+    "id": "a-prayer-for-the-holy-christian-church",
+    "title": "A Prayer for the Holy Christian Church",
+    "altTitles": [
+      "Almighty and everlasting God",
+      "Collect for the Church"
+    ],
+    "tradition": "Lutheran",
+    "category": "Collect",
+    "tags": [
+      "church",
+      "collect",
+      "intercession",
+      "unity",
+      "luther",
+      "prayer",
+      "preservation"
+    ],
+    "text": "Almighty and everlasting God, who by Thy Holy Spirit hast revealed the light of Thy saving Gospel: We humbly beseech Thee so to rule and govern Thy Church throughout the world, that it may continue in the pure doctrine of Thy holy Word, and that we, being delivered from the assaults of all our enemies, may serve Thee in holiness and righteousness all the days of our life; through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee and the Holy Ghost, ever one God, world without end. Amen.",
+    "language": "English (traditional)",
+    "source": "Lutheran liturgical tradition; collect for the Church",
+    "occasion": "Corporate worship; intercession for the Church"
+  },
+  {
+    "id": "a-prayer-for-the-sick",
+    "title": "A Prayer for the Sick",
+    "altTitles": [
+      "O Father of mercies and God of all comfort",
+      "Prayer for a sick person"
+    ],
+    "tradition": "Anglican",
+    "category": "Occasional",
+    "tags": [
+      "sick",
+      "sickness",
+      "healing",
+      "comfort",
+      "illness",
+      "visitation"
+    ],
+    "text": "O Father of mercies, and God of all comfort, our only help in time of need; We humbly beseech thee to behold, visit, and relieve thy sick servant for whom our prayers are desired. Look upon him with the eyes of thy mercy; comfort him with a sense of thy goodness; preserve him from the temptations of the enemy; and give him patience under his affliction. In thy good time, restore him to health, and enable him to lead the residue of his life in thy fear, and to thy glory; or else give him grace so to take thy visitation, that, after this painful life ended, he may dwell with thee in life everlasting; through Jesus Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer, Prayers for the Sick (Visitation of the Sick)",
+    "occasion": "In time of sickness / at the visitation of the sick"
+  },
+  {
+    "id": "a-prayer-for-travelers",
+    "title": "A Prayer for Travelers",
+    "altTitles": [
+      "Prayer for those who travel",
+      "O God, who didst call Abraham"
+    ],
+    "tradition": "Common",
+    "category": "Occasional",
+    "tags": [
+      "travel",
+      "travelers",
+      "journey",
+      "protection",
+      "safety",
+      "wayfarers"
+    ],
+    "text": "O God, who didst call Abraham to leave his home and didst protect him in all his wanderings; grant to us thy servants who now travel a safe journey and a peaceful arrival. Be unto us a shadow in the heat, a refuge in the storm, a rest in our weariness, and a sure defence against all the dangers of the way; that, guided and guarded by thy mercy, we may come at the last to our eternal home; through Jesus Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional prayer for travelers / wayfarers (Christian devotional tradition)",
+    "occasion": "Before or during a journey"
+  },
+  {
+    "id": "a-prayer-of-st-chrysostom",
+    "title": "A Prayer of St. Chrysostom",
+    "altTitles": [
+      "Almighty God, who hast given us grace at this time"
+    ],
+    "tradition": "Anglican",
+    "category": "Collect",
+    "tags": [
+      "chrysostom",
+      "common prayer",
+      "morning prayer",
+      "evening prayer",
+      "litany",
+      "agreement",
+      "petition"
+    ],
+    "text": "Almighty God, who hast given us grace at this time with one accord to make our common supplications unto thee; and dost promise that when two or three are gathered together in thy Name thou wilt grant their requests: Fulfil now, O Lord, the desires and petitions of thy servants, as may be most expedient for them; granting us in this world knowledge of thy truth, and in the world to come life everlasting. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662; from the Liturgy of St. John Chrysostom",
+    "occasion": "Said near the conclusion of Morning Prayer, Evening Prayer, and the Litany"
+  },
+  {
+    "id": "a-reformed-prayer-of-adoration",
+    "title": "A Reformed Prayer of Adoration",
+    "altTitles": [
+      "Prayer of Adoration",
+      "Adoration of the Almighty"
+    ],
+    "tradition": "Reformed",
+    "category": "Adoration & Praise",
+    "tags": [
+      "adoration",
+      "praise",
+      "worship",
+      "majesty",
+      "reformed",
+      "glory",
+      "almighty"
+    ],
+    "text": "O Lord our God, thou art great and greatly to be praised;\nthy power is infinite, thy wisdom unsearchable,\nthy mercy without end.\nHeaven and earth are full of thy glory.\nThou art clothed with honour and majesty,\nwho coverest thyself with light as with a garment,\nwho stretchest out the heavens like a curtain.\nWe adore thee, O Father everlasting;\nwe bow before thy holy throne,\nand with all thy works in heaven and earth\nwe ascribe unto thee blessing and honour,\nglory and power, now and for ever. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Reformed worship; drawing on Psalm 48:1, Psalm 104:1–2, and the Te Deum",
+    "occasion": "Opening of public worship; private adoration and praise"
+  },
+  {
+    "id": "act-of-contrition",
+    "title": "Act of Contrition",
+    "altTitles": [
+      "Prayer of Sorrow",
+      "Traditional Act of Contrition"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Penitential",
+    "tags": [
+      "act of contrition",
+      "contrition",
+      "confession",
+      "penance",
+      "sorrow",
+      "sin"
+    ],
+    "text": "O my God, I am heartily sorry for having offended thee,\nand I detest all my sins because of thy just punishments,\nbut most of all because they offend thee, my God,\nwho art all good and deserving of all my love.\nI firmly resolve, with the help of thy grace,\nto sin no more and to avoid the near occasions of sin. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Catholic prayer of repentance",
+    "occasion": "Prayed in the Sacrament of Penance (Confession) and in nightly examination of conscience"
+  },
+  {
+    "id": "act-of-contrition-2",
+    "title": "Act of Contrition (Traditional Form)",
+    "altTitles": [
+      "O my God, I am heartily sorry",
+      "O My God, I Am Heartily Sorry"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Penitential",
+    "tags": [
+      "act of contrition",
+      "contrition",
+      "confession",
+      "penance",
+      "sorrow",
+      "sin"
+    ],
+    "text": "O my God, I am heartily sorry\nfor having offended Thee,\nand I detest all my sins\nbecause I dread the loss of heaven\nand the pains of hell;\nbut most of all because they offend Thee, my God,\nWho art all-good and deserving of all my love.\nI firmly resolve, with the help of Thy grace,\nto confess my sins,\nto do penance,\nand to amend my life. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Catholic act of contrition (Baltimore Catechism form)",
+    "occasion": "Sacrament of Penance (Confession); examination of conscience; daily prayers; danger of death"
+  },
+  {
+    "id": "act-of-faith",
+    "title": "Act of Faith",
+    "altTitles": [
+      "O My God, I Firmly Believe"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Act of Faith, Hope & Love",
+    "tags": [
+      "act of faith",
+      "faith",
+      "creed",
+      "trinity",
+      "belief"
+    ],
+    "text": "O my God, I firmly believe\nthat Thou art one God in three Divine Persons,\nFather, Son, and Holy Ghost;\nI believe that Thy Divine Son became man,\nand died for our sins,\nand that He will come to judge the living and the dead.\nI believe these and all the truths\nwhich the holy Catholic Church teaches,\nbecause Thou hast revealed them,\nWho canst neither deceive nor be deceived. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Catholic act of faith (Baltimore Catechism form)",
+    "occasion": "Daily prayers; preparation for the sacraments; danger of death"
+  },
+  {
+    "id": "act-of-hope",
+    "title": "Act of Hope",
+    "altTitles": [
+      "O My God, Relying on Thy Almighty Power"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Act of Faith, Hope & Love",
+    "tags": [
+      "act of hope",
+      "hope",
+      "grace",
+      "salvation",
+      "mercy"
+    ],
+    "text": "O my God, relying on Thy infinite goodness and promises,\nI hope to obtain pardon of my sins,\nthe help of Thy grace,\nand life everlasting,\nthrough the merits of Jesus Christ,\nmy Lord and Redeemer. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Catholic act of hope (Baltimore Catechism form)",
+    "occasion": "Daily prayers; preparation for the sacraments; danger of death"
+  },
+  {
+    "id": "act-of-love",
+    "title": "Act of Love",
+    "altTitles": [
+      "Act of Charity",
+      "O My God, I Love Thee Above All Things"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Act of Faith, Hope & Love",
+    "tags": [
+      "act of love",
+      "act of charity",
+      "love",
+      "charity",
+      "contrition",
+      "neighbor"
+    ],
+    "text": "O my God, I love Thee above all things,\nwith my whole heart and soul,\nbecause Thou art all-good and worthy of all love.\nI love my neighbor as myself\nfor the love of Thee.\nI forgive all who have injured me,\nand ask pardon of all whom I have injured. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Catholic act of love/charity (Baltimore Catechism form)",
+    "occasion": "Daily prayers; preparation for the sacraments; danger of death"
+  },
+  {
+    "id": "adoro-te-devote",
+    "title": "Adoro Te Devote",
+    "altTitles": [
+      "Humbly We Adore Thee",
+      "Godhead Here in Hiding",
+      "Hidden God, Devoutly I Adore Thee"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Eucharistic",
+    "tags": [
+      "adoro te devote",
+      "eucharist",
+      "blessed sacrament",
+      "aquinas",
+      "adoration",
+      "thomas"
+    ],
+    "text": "Humbly I adore Thee, hidden Deity,\nWhich beneath these figures art concealed from me;\nWholly in submission Thee my spirit hails,\nFor in contemplating Thee it wholly fails.\n\nSight, touch, and taste in Thee are each deceived;\nThe ear alone most safely is believed:\nI believe all the Son of God has spoken,\nThan Truth's own word there is no truer token.\n\nGod only on the Cross lay hid from view;\nBut here lies hid at once the Manhood too:\nAnd I, in both confessing, humbly pray\nFor what the dying thief did ask that day.\n\nThy wounds, as Thomas saw, I do not see;\nYet Thee confess my Lord and God to be:\nMake me believe Thee ever more and more;\nIn Thee my hope, in Thee my love to store.\n\nO Thou Memorial of our Lord's own dying!\nO Bread that living art and vivifying!\nMake ever Thou my soul on Thee to live;\nEver a taste of heavenly sweetness give.\n\nO loving Pelican! O Jesu, Lord!\nUnclean I am, but cleanse me in Thy Blood;\nOf which a single drop, for sinners spilt,\nCan purge the entire world from all its guilt.\n\nJesu, Whom for the present veiled I see,\nWhat I so thirst for, oh, vouchsafe to me:\nThat I may see Thy countenance unfolding,\nAnd may be blest Thy glory in beholding. Amen.",
+    "language": "English (traditional)",
+    "source": "St. Thomas Aquinas (c. 1264); translation in traditional English (after Edward Caswall)",
+    "occasion": "Eucharistic adoration; Benediction of the Blessed Sacrament; thanksgiving after Communion"
+  },
+  {
+    "id": "anima-christi",
+    "title": "Anima Christi",
+    "altTitles": [
+      "Soul of Christ",
+      "Prayer of St. Ignatius Loyola"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Devotional",
+    "tags": [
+      "anima christi",
+      "soul of christ",
+      "eucharist",
+      "communion",
+      "ignatius",
+      "passion"
+    ],
+    "text": "Soul of Christ, sanctify me.\nBody of Christ, save me.\nBlood of Christ, inebriate me.\nWater from the side of Christ, wash me.\nPassion of Christ, strengthen me.\nO good Jesus, hear me.\nWithin Thy wounds hide me.\nSuffer me not to be separated from Thee.\nFrom the malignant enemy defend me.\nIn the hour of my death call me.\nAnd bid me come unto Thee,\nThat with Thy saints I may praise Thee\nForever and ever. Amen.",
+    "language": "English (traditional)",
+    "source": "Medieval Latin prayer (14th century); popularized by St. Ignatius of Loyola in the Spiritual Exercises (16th century)",
+    "occasion": "Thanksgiving after Holy Communion; personal devotion"
+  },
+  {
+    "id": "asking-a-blessing",
+    "title": "Asking a Blessing",
+    "altTitles": [
+      "Table Blessing",
+      "The eyes of all look to Thee, O Lord",
+      "Grace Before Meals"
+    ],
+    "tradition": "Lutheran",
+    "category": "Table Grace",
+    "tags": [
+      "meal",
+      "grace",
+      "table",
+      "blessing",
+      "luther",
+      "small catechism",
+      "food",
+      "before meals"
+    ],
+    "text": "The eyes of all wait upon Thee, O Lord, and Thou givest them their meat in due season. Thou openest Thine hand, and satisfiest the desire of every living thing.\n\nLord God, heavenly Father, bless us and these Thy gifts, which we receive from Thy bountiful goodness, through Jesus Christ, our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Martin Luther, Small Catechism (1529); Psalm 145:15-16",
+    "occasion": "Before meals"
+  },
+  {
+    "id": "benedictus-the-song-of-zechariah",
+    "title": "Benedictus (The Song of Zechariah)",
+    "altTitles": [
+      "Song of Zechariah",
+      "Blessed be the Lord God of Israel",
+      "Canticle of Zacharias"
+    ],
+    "tradition": "Anglican",
+    "category": "Canticle",
+    "tags": [
+      "benedictus",
+      "zechariah",
+      "zacharias",
+      "canticle",
+      "morning prayer",
+      "lauds",
+      "luke",
+      "scripture"
+    ],
+    "text": "Blessed be the Lord God of Israel; for he hath visited and redeemed his people;\nAnd hath raised up a mighty salvation for us, in the house of his servant David;\nAs he spake by the mouth of his holy Prophets, which have been since the world began;\nThat we should be saved from our enemies, and from the hand of all that hate us.\nGlory be to the Father, and to the Son, and to the Holy Ghost;\nAs it was in the beginning, is now, and ever shall be, world without end. Amen.",
+    "language": "English (traditional)",
+    "source": "Luke 1:68-79 (opening verses with doxology); Book of Common Prayer 1662, Morning Prayer",
+    "occasion": "Morning Prayer (Lauds / Matins)"
+  },
+  {
+    "id": "chaplet-of-divine-mercy-prayer",
+    "title": "Chaplet of Divine Mercy Prayer",
+    "altTitles": [
+      "Eternal Father, I Offer Thee",
+      "For the Sake of His Sorrowful Passion"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Devotional",
+    "tags": [
+      "divine mercy",
+      "chaplet",
+      "faustina",
+      "passion",
+      "mercy",
+      "eternal father"
+    ],
+    "text": "Eternal Father, I offer Thee\nthe Body and Blood, Soul and Divinity\nof Thy dearly beloved Son, Our Lord Jesus Christ,\nin atonement for our sins\nand those of the whole world.\n\nFor the sake of His sorrowful Passion,\nhave mercy on us and on the whole world.\n\nHoly God, Holy Mighty One, Holy Immortal One,\nhave mercy on us and on the whole world.",
+    "language": "English (traditional)",
+    "source": "Revealed to St. Faustina Kowalska (1905-1938); prayed on rosary beads. (The first prayer is said on the 'Our Father' beads; the second on the 'Hail Mary' beads; the third repeated three times to conclude.)",
+    "occasion": "Divine Mercy devotion; 3 o'clock hour of mercy; Divine Mercy Sunday; for the dying"
+  },
+  {
+    "id": "come-holy-spirit",
+    "title": "Come, Holy Spirit",
+    "altTitles": [
+      "Veni Sancte Spiritus",
+      "Come Holy Ghost"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Devotional",
+    "tags": [
+      "come holy spirit",
+      "holy spirit",
+      "veni sancte spiritus",
+      "pentecost",
+      "invocation",
+      "daily"
+    ],
+    "text": "Come, Holy Spirit, fill the hearts of thy faithful\nand kindle in them the fire of thy love.\nSend forth thy Spirit, and they shall be created.\nAnd thou shalt renew the face of the earth.\n\nLet us pray.\nO God, who hast taught the hearts of the faithful\nby the light of the Holy Spirit,\ngrant us in the same Spirit to be truly wise,\nand ever to rejoice in his consolation.\nThrough Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional invocation of the Holy Spirit (Veni Sancte Spiritus, short form); cf. Psalm 103:30",
+    "occasion": "Prayed before work, study, meetings, or any undertaking; at Pentecost"
+  },
+  {
+    "id": "confession-before-the-confessor",
+    "title": "Confession Before the Confessor",
+    "altTitles": [
+      "The Form of Confession",
+      "Luther's Short Form of Confession"
+    ],
+    "tradition": "Lutheran",
+    "category": "Penitential",
+    "tags": [
+      "confession",
+      "repentance",
+      "sin",
+      "forgiveness",
+      "absolution",
+      "luther",
+      "small catechism"
+    ],
+    "text": "Dear confessor, I beseech you to hear my confession, and to pronounce forgiveness to me for God's sake.\n\nI, a poor sinner, confess myself before God guilty of all sins; especially I confess before you that as a servant, maid, etc., I, alas, serve my master unfaithfully; for in this and that I have not done what they commanded me; I have provoked them, and caused them to curse; I have been negligent, and permitted damage to be done; I have also been immodest in words and deeds; I have quarreled with my equals; I have grumbled against my mistress, and cursed; and the like.\n\nI am sorry for all this, and I pray for grace; I will amend.",
+    "language": "English (traditional)",
+    "source": "Martin Luther, Small Catechism (1529), A Short Form of Confession",
+    "occasion": "Private confession before a pastor or confessor"
+  },
+  {
+    "id": "do-all-the-good-you-can",
+    "title": "Do All the Good You Can",
+    "altTitles": [
+      "John Wesley's Rule",
+      "Wesley's Rule of Conduct"
+    ],
+    "tradition": "Methodist",
+    "category": "Devotional",
+    "tags": [
+      "wesley",
+      "good works",
+      "charity",
+      "service",
+      "rule",
+      "methodist",
+      "doing good"
+    ],
+    "text": "Do all the good you can,\nby all the means you can,\nin all the ways you can,\nin all the places you can,\nat all the times you can,\nto all the people you can,\nas long as ever you can.",
+    "language": "English (traditional)",
+    "source": "Attributed to John Wesley (1703–1791); popular maxim summarizing his teaching on doing good",
+    "occasion": "Devotional reflection; encouragement to charitable service"
+  },
+  {
+    "id": "eternal-rest-requiem-aeternam",
+    "title": "Eternal Rest (Requiem aeternam)",
+    "altTitles": [
+      "Prayer for the Dead",
+      "Requiem aeternam",
+      "Rest eternal grant unto them, O Lord"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Occasional",
+    "tags": [
+      "dead",
+      "departed",
+      "requiem",
+      "eternal rest",
+      "funeral",
+      "faithful departed",
+      "mourning"
+    ],
+    "text": "Eternal rest grant unto them, O Lord,\\nand let perpetual light shine upon them.\\nMay they rest in peace. Amen.\\n\\nMay the souls of all the faithful departed,\\nthrough the mercy of God, rest in peace. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Roman Catholic prayer (Requiem aeternam), based on 2 Esdras 2:34-35",
+    "occasion": "For the dead / the faithful departed; funerals; All Souls"
+  },
+  {
+    "id": "glory-be",
+    "title": "Glory Be",
+    "altTitles": [
+      "Doxology",
+      "Gloria Patri",
+      "Glory Be to the Father"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Doxology",
+    "tags": [
+      "glory be",
+      "doxology",
+      "gloria patri",
+      "trinity",
+      "rosary",
+      "daily"
+    ],
+    "text": "Glory be to the Father,\nand to the Son,\nand to the Holy Spirit.\nAs it was in the beginning, is now,\nand ever shall be,\nworld without end. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Trinitarian doxology (Gloria Patri); ancient Christian usage",
+    "occasion": "Prayed daily; in the Rosary, the Liturgy of the Hours, and at the end of psalms"
+  },
+  {
+    "id": "grace-after-meals",
+    "title": "Grace After Meals",
+    "altTitles": [
+      "Thanksgiving After Meals",
+      "We Give Thee Thanks"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Table Grace",
+    "tags": [
+      "grace after meals",
+      "meal",
+      "thanksgiving",
+      "table",
+      "daily",
+      "food"
+    ],
+    "text": "We give thee thanks for all thy benefits,\nO almighty God, who livest and reignest, world without end. Amen.\nMay the souls of the faithful departed,\nthrough the mercy of God, rest in peace. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Catholic table prayer (Agimus tibi gratias)",
+    "occasion": "Prayed after meals"
+  },
+  {
+    "id": "grace-before-meals",
+    "title": "Grace Before Meals",
+    "altTitles": [
+      "Blessing Before Meals",
+      "Bless Us O Lord"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Table Grace",
+    "tags": [
+      "grace before meals",
+      "meal",
+      "blessing",
+      "table",
+      "daily",
+      "food"
+    ],
+    "text": "Bless us, O Lord, and these thy gifts,\nwhich we are about to receive from thy bounty.\nThrough Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Catholic table blessing (Benedic, Domine)",
+    "occasion": "Prayed before meals"
+  },
+  {
+    "id": "hail-mary",
+    "title": "Hail Mary",
+    "altTitles": [
+      "Ave Maria",
+      "Angelic Salutation"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "hail mary",
+      "ave maria",
+      "mary",
+      "rosary",
+      "marian",
+      "daily"
+    ],
+    "text": "Hail Mary, full of grace,\nthe Lord is with thee;\nblessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death. Amen.",
+    "language": "English (traditional)",
+    "source": "Luke 1:28, 42; with ecclesiastical petition added by tradition",
+    "occasion": "Prayed daily; the principal prayer of the Rosary and the Angelus"
+  },
+  {
+    "id": "hail-holy-queen",
+    "title": "Hail, Holy Queen",
+    "altTitles": [
+      "Salve Regina",
+      "Hail Holy Queen Mother of Mercy"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "marian",
+      "rosary",
+      "salve regina",
+      "hail holy queen",
+      "antiphon",
+      "mary"
+    ],
+    "text": "Hail, holy Queen, Mother of mercy,\nour life, our sweetness, and our hope.\nTo thee do we cry,\npoor banished children of Eve.\nTo thee do we send up our sighs,\nmourning and weeping in this valley of tears.\nTurn then, most gracious Advocate,\nthine eyes of mercy toward us,\nand after this our exile,\nshow unto us the blessed fruit of thy womb, Jesus.\nO clement, O loving, O sweet Virgin Mary.\n\nV. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.",
+    "language": "English (traditional)",
+    "source": "Marian antiphon attributed to Hermann of Reichenau (Hermann Contractus), 11th century; traditional English translation. Recited at the close of the Rosary.",
+    "occasion": "Recited at the conclusion of the Rosary; sung as the final Marian antiphon at Compline from Trinity Sunday to Advent."
+  },
+  {
+    "id": "heidelberg-catechism-lord-s-day-1-question-and-answer-1",
+    "title": "Heidelberg Catechism, Lord's Day 1, Question and Answer 1",
+    "altTitles": [
+      "My Only Comfort",
+      "Heidelberg Q1"
+    ],
+    "tradition": "Reformed",
+    "category": "Penitential",
+    "tags": [
+      "heidelberg",
+      "catechism",
+      "comfort",
+      "reformed",
+      "belonging",
+      "assurance",
+      "confession"
+    ],
+    "text": "Q. What is thy only comfort in life and death?\n\nA. That I, with body and soul, both in life and death, am not my own, but belong unto my faithful Saviour Jesus Christ; who, with his precious blood, hath fully satisfied for all my sins, and delivered me from all the power of the devil; and so preserves me, that without the will of my heavenly Father not a hair can fall from my head; yea, that all things must be subservient to my salvation, and therefore, by his Holy Spirit, he also assures me of eternal life, and makes me sincerely willing and ready, henceforth, to live unto him.",
+    "language": "English (traditional)",
+    "source": "Heidelberg Catechism (1563), Lord's Day 1, Q&A 1; traditional English translation",
+    "occasion": "Catechetical instruction; confession of faith and assurance"
+  },
+  {
+    "id": "it-is-truly-meet",
+    "title": "It Is Truly Meet",
+    "altTitles": [
+      "Axion Estin",
+      "It is truly right to bless thee, O Theotokos"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Marian",
+    "tags": [
+      "theotokos",
+      "axion estin",
+      "mary",
+      "mother of god",
+      "cherubim",
+      "seraphim",
+      "magnify"
+    ],
+    "text": "It is truly meet to bless thee, O Theotokos, ever-blessed and most pure, and the Mother of our God. More honourable than the Cherubim, and more glorious beyond compare than the Seraphim; without corruption thou gavest birth to God the Word: true Theotokos, we magnify thee.",
+    "language": "English (traditional)",
+    "source": "Byzantine hymn to the Mother of God; the refrain 'More honourable than the Cherubim' attributed to St. Cosmas the Hymnographer (8th c.), the opening verse traditionally revealed at Mount Athos",
+    "occasion": "Sung at the Divine Liturgy after the consecration, at Matins, and in daily prayer rules as a hymn to the Theotokos"
+  },
+  {
+    "id": "john-calvin-s-prayer-before-the-study-of-scripture",
+    "title": "John Calvin's Prayer Before the Study of Scripture",
+    "altTitles": [
+      "Calvin's Prayer Before Lecture",
+      "Prayer Before Study"
+    ],
+    "tradition": "Reformed",
+    "category": "Intercession",
+    "tags": [
+      "calvin",
+      "study",
+      "scripture",
+      "wisdom",
+      "illumination",
+      "teaching",
+      "reformed",
+      "lecture"
+    ],
+    "text": "May the Lord grant that we may engage in contemplating\nthe mysteries of his heavenly wisdom\nwith truly increasing devotion,\nto his glory and to our edification. Amen.",
+    "language": "English (traditional)",
+    "source": "John Calvin (1509–1564); prayer customarily used before his theological lectures",
+    "occasion": "Before the reading or study of Scripture; teaching and lectures"
+  },
+  {
+    "id": "luther-s-evening-prayer",
+    "title": "Luther's Evening Prayer",
+    "altTitles": [
+      "The Evening Prayer",
+      "I thank You, my heavenly Father... this day"
+    ],
+    "tradition": "Lutheran",
+    "category": "Daily Office",
+    "tags": [
+      "evening",
+      "night",
+      "luther",
+      "small catechism",
+      "daily prayer",
+      "thanksgiving",
+      "protection",
+      "forgiveness"
+    ],
+    "text": "I thank You, my heavenly Father, through Jesus Christ, Your dear Son, that You have graciously kept me this day; and I pray that You would forgive me all my sins where I have done wrong, and graciously keep me this night. For into Your hands I commend myself, my body and soul, and all things. Let Your holy angel be with me, that the evil foe may have no power over me. Amen.",
+    "language": "English (traditional)",
+    "source": "Martin Luther, Small Catechism (1529), Daily Prayers",
+    "occasion": "At bedtime in the evening"
+  },
+  {
+    "id": "luther-s-morning-prayer",
+    "title": "Luther's Morning Prayer",
+    "altTitles": [
+      "The Morning Prayer",
+      "I thank You, my heavenly Father"
+    ],
+    "tradition": "Lutheran",
+    "category": "Daily Office",
+    "tags": [
+      "morning",
+      "luther",
+      "small catechism",
+      "daily prayer",
+      "thanksgiving",
+      "protection"
+    ],
+    "text": "I thank You, my heavenly Father, through Jesus Christ, Your dear Son, that You have kept me this night from all harm and danger; and I pray that You would keep me this day also from sin and every evil, that all my doings and life may please You. For into Your hands I commend myself, my body and soul, and all things. Let Your holy angel be with me, that the evil foe may have no power over me. Amen.",
+    "language": "English (traditional)",
+    "source": "Martin Luther, Small Catechism (1529), Daily Prayers",
+    "occasion": "Upon rising in the morning"
+  },
+  {
+    "id": "luther-s-sacristy-prayer",
+    "title": "Luther's Sacristy Prayer",
+    "altTitles": [
+      "The Preacher's Prayer",
+      "Lord God, Thou hast appointed me"
+    ],
+    "tradition": "Lutheran",
+    "category": "Vocational",
+    "tags": [
+      "luther",
+      "pastor",
+      "preaching",
+      "ministry",
+      "office",
+      "humility",
+      "word"
+    ],
+    "text": "Lord God, Thou hast appointed me as a bishop and pastor in Thy Church, but Thou seest how unsuited I am to meet so great and difficult a task. If I had lacked Thy help, I would have ruined everything long ago. Therefore I call upon Thee: I wish to devote my mouth and my heart to Thee; I shall teach the people. I myself will learn and ponder diligently upon Thy Word. Use me as Thy instrument, but do not forsake me, for if I am alone, I would easily wreck it all. Amen.",
+    "language": "English (traditional)",
+    "source": "Martin Luther, the Sacristy Prayer (Sakristei-Gebet)",
+    "occasion": "Prayed by pastors before preaching or ministry"
+  },
+  {
+    "id": "morning-offering",
+    "title": "Morning Offering",
+    "altTitles": [
+      "Daily Offering"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Daily Office",
+    "tags": [
+      "morning offering",
+      "morning",
+      "sacred heart",
+      "daily",
+      "offering",
+      "apostleship of prayer"
+    ],
+    "text": "O Jesus, through the Immaculate Heart of Mary,\nI offer thee my prayers, works, joys and sufferings of this day,\nin union with the Holy Sacrifice of the Mass throughout the world.\nI offer them for all the intentions of thy Sacred Heart:\nthe salvation of souls, reparation for sin, and the reunion of all Christians;\nI offer them for the intentions of our bishops and of all Apostles of Prayer,\nand in particular for those recommended by our Holy Father this month. Amen.",
+    "language": "English (traditional)",
+    "source": "Apostleship of Prayer (traditional form)",
+    "occasion": "Prayed upon rising in the morning to consecrate the day"
+  },
+  {
+    "id": "nunc-dimittis-the-song-of-simeon",
+    "title": "Nunc Dimittis (The Song of Simeon)",
+    "altTitles": [
+      "Song of Simeon",
+      "Lord, now lettest thou thy servant depart in peace",
+      "Canticle of Simeon"
+    ],
+    "tradition": "Anglican",
+    "category": "Canticle",
+    "tags": [
+      "nunc dimittis",
+      "simeon",
+      "canticle",
+      "evening prayer",
+      "compline",
+      "luke",
+      "scripture"
+    ],
+    "text": "Lord, now lettest thou thy servant depart in peace, according to thy word.\nFor mine eyes have seen thy salvation,\nWhich thou hast prepared before the face of all people;\nTo be a light to lighten the Gentiles, and to be the glory of thy people Israel.\nGlory be to the Father, and to the Son, and to the Holy Ghost;\nAs it was in the beginning, is now, and ever shall be, world without end. Amen.",
+    "language": "English (traditional)",
+    "source": "Luke 2:29-32; Book of Common Prayer 1662, Evening Prayer",
+    "occasion": "Evening Prayer (Evensong) and Compline / at the close of day"
+  },
+  {
+    "id": "o-come-let-us-worship",
+    "title": "O Come, Let Us Worship",
+    "altTitles": [
+      "Come, let us worship and fall down before Christ",
+      "The Invitatory Verses"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Daily Office",
+    "tags": [
+      "come let us worship",
+      "invitatory",
+      "beginning prayers",
+      "worship",
+      "christ our king"
+    ],
+    "text": "O come, let us worship God our King.\n\nO come, let us worship and fall down before Christ, our King and our God.\n\nO come, let us worship and fall down before Christ Himself, our King and our God.",
+    "language": "English (traditional)",
+    "source": "Invitatory verses derived from Psalm 94/95:6; standard introductory verses of Orthodox prayer and services",
+    "occasion": "Said after the Trisagion prayers at the beginning of prayer rules and most services, introducing the psalms and prayers that follow"
+  },
+  {
+    "id": "o-heavenly-king",
+    "title": "O Heavenly King",
+    "altTitles": [
+      "Prayer to the Holy Spirit",
+      "Heavenly King, Comforter"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Daily Office",
+    "tags": [
+      "holy spirit",
+      "heavenly king",
+      "comforter",
+      "paraclete",
+      "pentecost",
+      "invocation"
+    ],
+    "text": "O Heavenly King, the Comforter, the Spirit of Truth, Who art everywhere present and fillest all things; Treasury of good things and Giver of life: Come and abide in us, and cleanse us from every impurity, and save our souls, O Good One.",
+    "language": "English (traditional)",
+    "source": "Ancient Byzantine hymn invoking the Holy Spirit, sung as a sticheron of Pentecost",
+    "occasion": "Said at the beginning of prayer (after Pentecost through to the eve of Pentecost it is restored); opens most services and prayer rules; invocation of the Holy Spirit before any undertaking"
+  },
+  {
+    "id": "o-theotokos-and-virgin-rejoice",
+    "title": "O Theotokos and Virgin, Rejoice",
+    "altTitles": [
+      "Rejoice, O Virgin Theotokos",
+      "Theotoke Parthene",
+      "The Angelic Salutation"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Marian",
+    "tags": [
+      "theotokos",
+      "virgin",
+      "rejoice",
+      "hail mary",
+      "annunciation",
+      "mother of god",
+      "vespers"
+    ],
+    "text": "O Theotokos and Virgin, rejoice, Mary full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, for thou hast borne the Saviour of our souls.",
+    "language": "English (traditional)",
+    "source": "Troparion based on the Annunciation (Luke 1:28, 1:42); the Orthodox counterpart of the Ave Maria",
+    "occasion": "Sung at Great Vespers (especially Sunday) and used in daily prayer; an Orthodox salutation of the Mother of God"
+  },
+  {
+    "id": "phos-hilaron-o-gladsome-light",
+    "title": "Phos Hilaron (O Gladsome Light)",
+    "altTitles": [
+      "O Gladsome Light",
+      "Hail, gladdening Light",
+      "Hymn of Light",
+      "Lumen Hilare"
+    ],
+    "tradition": "Common",
+    "category": "Canticle",
+    "tags": [
+      "phos hilaron",
+      "gladsome light",
+      "vespers",
+      "evening",
+      "canticle",
+      "light",
+      "ancient hymn"
+    ],
+    "text": "O gladsome light of the holy glory of the immortal Father,\nheavenly, holy, blessed Jesus Christ:\nNow that we have come to the setting of the sun,\nand behold the light of evening,\nwe praise God, Father, Son, and Holy Ghost.\nFor it is right at all times to worship thee\nwith voices of praise, O Son of God, thou Giver of life;\ntherefore in all the world thy glories, Lord, they own.",
+    "language": "English (traditional)",
+    "source": "Ancient Greek hymn (3rd century or earlier); traditional English rendering for Vespers / Evening Prayer",
+    "occasion": "Vespers / Evening Prayer at the lighting of the lamps"
+  },
+  {
+    "id": "prayer-before-a-crucifix",
+    "title": "Prayer Before a Crucifix",
+    "altTitles": [
+      "Behold, O Kind and Most Sweet Jesus",
+      "En ego, O bone et dulcissime Iesu"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Devotional",
+    "tags": [
+      "crucifix",
+      "passion",
+      "wounds",
+      "contrition",
+      "indulgence",
+      "behold o kind and most sweet jesus"
+    ],
+    "text": "Behold, O kind and most sweet Jesus,\nI cast myself upon my knees in Thy sight,\nand with the most fervent desire of my soul\nI pray and beseech Thee\nthat Thou wouldst impress upon my heart\nlively sentiments of faith, hope, and charity,\nwith true contrition for my sins,\nand a firm purpose of amendment;\nwhile with deep affection and grief of soul\nI ponder within myself and mentally contemplate\nThy five most precious wounds,\nhaving before my eyes that which David spoke in prophecy of Thee,\nO good Jesus:\n\"They have pierced my hands and my feet;\nthey have numbered all my bones.\"",
+    "language": "English (traditional)",
+    "source": "Traditional prayer of unknown authorship (the 'En ego'), associated with an indulgence granted for recitation before a crucifix; references Psalm 21:17-18 (Douay-Rheims)",
+    "occasion": "Devotion before a crucifix; especially during Lent and on Fridays"
+  },
+  {
+    "id": "prayer-before-sleep",
+    "title": "Prayer Before Sleep",
+    "altTitles": [
+      "Evening Prayer",
+      "Into Thy hands, O Lord",
+      "Prayer of St. John Damascene before Sleep"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Evening",
+    "tags": [
+      "evening",
+      "night",
+      "before sleep",
+      "bedtime",
+      "repentance",
+      "forgiveness",
+      "rest"
+    ],
+    "text": "O Lord our God, what I have sinned this day in word, deed, or thought, forgive me all, for Thou art good and lovest mankind.\n\nGrant me peaceful and undisturbed sleep, and deliver me from all the influence and assaults of the evil one. Raise me up again in proper time that I may glorify Thee; for Thou art blessed: with Thine Only-begotten Son, and Thine All-holy Spirit, now and ever, and unto ages of ages. Amen.\n\nInto Thy hands, O Lord Jesus Christ, my God, I commend my spirit and my body; do Thou Thyself bless me, have mercy on me, and grant me life eternal. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Orthodox evening prayers, drawing on St. John Damascene and the prayers before sleep; the commendation echoes Luke 23:46 and Psalm 30:6",
+    "occasion": "Said at night before going to sleep, at the conclusion of the evening prayer rule"
+  },
+  {
+    "id": "prayer-of-st-ephrem-the-syrian",
+    "title": "Prayer of St. Ephrem the Syrian",
+    "altTitles": [
+      "O Lord and Master of my life",
+      "The Lenten Prayer of St. Ephraim"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Penitential",
+    "tags": [
+      "st ephrem",
+      "lent",
+      "great lent",
+      "repentance",
+      "prostrations",
+      "fasting",
+      "humility"
+    ],
+    "text": "O Lord and Master of my life, take from me the spirit of sloth, despair, lust of power, and idle talk. (Prostration)\n\nBut give rather the spirit of chastity, humility, patience, and love to Thy servant. (Prostration)\n\nYea, O Lord and King, grant me to see my own transgressions, and not to judge my brother, for blessed art Thou unto ages of ages. Amen. (Prostration)",
+    "language": "English (traditional)",
+    "source": "Attributed to St. Ephrem the Syrian (4th century)",
+    "occasion": "Prayed with prostrations at the weekday services of Great Lent and during the Lenten season"
+  },
+  {
+    "id": "prayer-of-st-francis",
+    "title": "Prayer of St. Francis",
+    "altTitles": [
+      "Peace Prayer",
+      "Make Me an Instrument of Your Peace"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Devotional",
+    "tags": [
+      "st francis",
+      "peace",
+      "instrument",
+      "pardon",
+      "charity",
+      "consolation"
+    ],
+    "text": "Lord, make me an instrument of Thy peace.\nWhere there is hatred, let me sow love;\nwhere there is injury, pardon;\nwhere there is doubt, faith;\nwhere there is despair, hope;\nwhere there is darkness, light;\nand where there is sadness, joy.\n\nO Divine Master, grant that I may not so much seek\nto be consoled as to console;\nto be understood as to understand;\nto be loved as to love.\nFor it is in giving that we receive;\nit is in pardoning that we are pardoned;\nand it is in dying that we are born to eternal life.\nAmen.",
+    "language": "English (traditional)",
+    "source": "Anonymous; first appeared in French in 1912 in the periodical 'La Clochette'. Despite its name, it was NOT written by St. Francis of Assisi (13th century); the attribution arose in the 20th century.",
+    "occasion": "Peace; personal devotion; reconciliation"
+  },
+  {
+    "id": "prayer-of-thanksgiving-after-holy-communion",
+    "title": "Prayer of Thanksgiving after Holy Communion",
+    "altTitles": [
+      "I thank Thee, O Lord my God",
+      "Thanksgiving after Communion"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Thanksgiving",
+    "tags": [
+      "communion",
+      "eucharist",
+      "thanksgiving",
+      "holy gifts",
+      "after communion",
+      "body and blood"
+    ],
+    "text": "I thank Thee, O Lord my God, that Thou hast not rejected me, a sinner, but hast vouchsafed me to be a communicant of Thy Holy Things. I thank Thee that Thou hast vouchsafed me, the unworthy, to partake of Thy most pure and heavenly Gifts.\n\nBut, O Master, Lover of mankind, Who for our sake didst die and didst rise again, and didst bestow upon us these dread and life-giving Mysteries for the well-being and sanctification of our souls and bodies: grant that these may be even unto me for the healing of both soul and body, for the averting of everything hostile, for the enlightenment of the eyes of my heart, for the peace of the powers of my soul, for faith unashamed, for love unfeigned, for the fullness of wisdom, for the keeping of Thy commandments, for an increase of Thy divine grace, and for the attainment of Thy kingdom; that being preserved by them in Thy holiness, I may ever remember Thy grace, and live no longer for myself, but for Thee, our Master and Benefactor. And thus, when I shall have departed this life in hope of life eternal, I may attain unto everlasting rest, where the sound of them that keep festival is unceasing, and the delight is endless of them that behold the ineffable beauty of Thy countenance. For Thou art the true desire and the unutterable joy of them that love Thee, O Christ our God, and all creation doth hymn Thee unto the ages. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional prayers of Thanksgiving after Holy Communion, attributed to St. Basil the Great",
+    "occasion": "Said after receiving Holy Communion at the Divine Liturgy"
+  },
+  {
+    "id": "prayer-of-the-optina-elders",
+    "title": "Prayer of the Optina Elders",
+    "altTitles": [
+      "Morning Prayer of the Optina Elders",
+      "Grant me to greet the coming day in peace"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Morning",
+    "tags": [
+      "optina",
+      "elders",
+      "morning",
+      "trust",
+      "providence",
+      "god's will",
+      "peace"
+    ],
+    "text": "O Lord, grant that I may meet all that this coming day brings to me with spiritual tranquillity. Grant that I may fully surrender myself to Thy holy will.\n\nAt every hour of this day, direct and support me in all things. Whatsoever news may reach me in the course of the day, teach me to accept it with a calm soul and the firm conviction that all is subject to Thy holy will.\n\nDirect my thoughts and feelings in all my words and actions. In all unexpected occurrences, do not let me forget that all is sent down from Thee.\n\nGrant that I may deal straightforwardly and wisely with every member of my family, neither embarrassing nor saddening anyone.\n\nO Lord, grant me the strength to bear the fatigue of the coming day and all the events that take place during it. Direct my will and teach me to pray, to believe, to hope, to suffer, to forgive, and to love. Amen.",
+    "language": "English (traditional)",
+    "source": "Attributed to the Elders of Optina Monastery, Russia (19th century)",
+    "occasion": "Said in the morning, at the start of the day, entrusting the day to God's providence"
+  },
+  {
+    "id": "prayer-to-one-s-guardian-angel-2",
+    "title": "Prayer to One's Guardian Angel",
+    "altTitles": [
+      "O Angel of God, my holy Guardian",
+      "Holy Angel, attendant of my wretched soul"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Daily Office",
+    "tags": [
+      "guardian angel",
+      "angel",
+      "protection",
+      "morning",
+      "evening",
+      "intercession"
+    ],
+    "text": "O Angel of Christ, my holy Guardian and protector of my soul and body, forgive me all my sins of this day. Deliver me from all the wiles of the enemy, that I may not anger my God by any sin. Pray for me, a sinful and unworthy servant, that thou mayest present me worthy of the goodness and mercy of the All-holy Trinity, and of the Mother of my Lord Jesus Christ, and of all the saints. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Orthodox prayer to the Guardian Angel, included in the morning and evening prayer rules",
+    "occasion": "Said in the morning and evening prayers, invoking the protection of one's Guardian Angel"
+  },
+  {
+    "id": "prayer-to-one-s-guardian-angel",
+    "title": "Prayer to One's Guardian Angel",
+    "altTitles": [
+      "Angel of God",
+      "Guardian Angel Prayer",
+      "Angele Dei"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Devotional",
+    "tags": [
+      "guardian angel",
+      "angel of god",
+      "angel",
+      "protection",
+      "daily",
+      "children"
+    ],
+    "text": "Angel of God, my guardian dear,\nto whom God's love commits me here,\never this day be at my side,\nto light and guard, to rule and guide. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional prayer (Angele Dei), attributed to the tradition of Reginald of Canterbury",
+    "occasion": "Prayed daily, often morning and night; commonly taught to children"
+  },
+  {
+    "id": "prayer-to-our-lady-of-the-rosary",
+    "title": "Prayer to Our Lady of the Rosary",
+    "altTitles": [
+      "The Rosary's Concluding Prayer",
+      "O God, whose only-begotten Son"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "rosary",
+      "concluding prayer",
+      "mysteries",
+      "marian",
+      "collect",
+      "mary"
+    ],
+    "text": "V. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.\n\nLet us pray.\nO God, whose only-begotten Son,\nby his life, death, and resurrection,\nhath purchased for us the rewards of eternal life;\ngrant, we beseech thee,\nthat meditating upon these mysteries\nof the most holy Rosary of the Blessed Virgin Mary,\nwe may imitate what they contain\nand obtain what they promise,\nthrough the same Christ our Lord.\nAmen.",
+    "language": "English (traditional)",
+    "source": "Collect for the feast of the Most Holy Rosary; traditional concluding prayer of the Rosary.",
+    "occasion": "Prayed at the very end of the Rosary, after the Hail Holy Queen."
+  },
+  {
+    "id": "prayer-to-st-michael-the-archangel",
+    "title": "Prayer to St. Michael the Archangel",
+    "altTitles": [
+      "St. Michael Prayer",
+      "Sancte Michael Archangele"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "To the Saints",
+    "tags": [
+      "st michael",
+      "archangel",
+      "protection",
+      "spiritual warfare",
+      "leo xiii",
+      "satan"
+    ],
+    "text": "Saint Michael the Archangel,\ndefend us in battle.\nBe our protection against the wickedness and snares of the devil.\nMay God rebuke him, we humbly pray;\nand do thou, O Prince of the heavenly host,\nby the power of God,\nthrust into hell Satan and all the evil spirits\nwho prowl about the world seeking the ruin of souls. Amen.",
+    "language": "English (traditional)",
+    "source": "Composed by Pope Leo XIII, 1886 (Leonine Prayers)",
+    "occasion": "Protection; spiritual warfare; formerly recited after Low Mass"
+  },
+  {
+    "id": "prayer-to-the-sacred-heart-of-jesus",
+    "title": "Prayer to the Sacred Heart of Jesus",
+    "altTitles": [
+      "O Sacred Heart of Jesus",
+      "Act of Consecration to the Sacred Heart"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Devotional",
+    "tags": [
+      "sacred heart",
+      "jesus",
+      "consecration",
+      "mercy",
+      "trust",
+      "love"
+    ],
+    "text": "O most holy Heart of Jesus,\nfountain of every blessing,\nI adore Thee, I love Thee,\nand with lively sorrow for my sins\nI offer Thee this poor heart of mine.\nMake me humble, patient, pure,\nand wholly obedient to Thy will.\nGrant, good Jesus, that I may live in Thee and for Thee.\nProtect me in the midst of danger;\ncomfort me in my afflictions;\ngive me health of body,\nassistance in my temporal needs,\nThy blessing on all that I do,\nand the grace of a holy death. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional Catholic devotion to the Sacred Heart, associated with the apparitions to St. Margaret Mary Alacoque (17th century)",
+    "occasion": "Devotion to the Sacred Heart; First Fridays; Feast of the Sacred Heart; daily consecration"
+  },
+  {
+    "id": "psalm-121",
+    "title": "Psalm 121",
+    "altTitles": [
+      "I Will Lift Up Mine Eyes Unto the Hills",
+      "A Song of Degrees"
+    ],
+    "tradition": "Common",
+    "category": "Psalm",
+    "tags": [
+      "psalm",
+      "protection",
+      "help",
+      "travel",
+      "keeper",
+      "trust",
+      "kjv",
+      "scripture"
+    ],
+    "text": "I will lift up mine eyes unto the hills, from whence cometh my help.\nMy help cometh from the LORD, which made heaven and earth.\nHe will not suffer thy foot to be moved: he that keepeth thee will not slumber.\nBehold, he that keepeth Israel shall neither slumber nor sleep.\nThe LORD is thy keeper: the LORD is thy shade upon thy right hand.\nThe sun shall not smite thee by day, nor the moon by night.\nThe LORD shall preserve thee from all evil: he shall preserve thy soul.\nThe LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+    "language": "English (traditional)",
+    "source": "Psalm 121, King James Version (1611), public domain. A Song of degrees.",
+    "occasion": "Prayed for travelers, for protection and help; in times of need; evening and journeys."
+  },
+  {
+    "id": "psalm-23",
+    "title": "Psalm 23",
+    "altTitles": [
+      "The Lord is My Shepherd",
+      "The Shepherd Psalm"
+    ],
+    "tradition": "Common",
+    "category": "Psalm",
+    "tags": [
+      "psalm",
+      "shepherd",
+      "comfort",
+      "trust",
+      "kjv",
+      "scripture",
+      "funeral",
+      "guidance"
+    ],
+    "text": "The LORD is my shepherd; I shall not want.\nHe maketh me to lie down in green pastures: he leadeth me beside the still waters.\nHe restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.\nYea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.\nThou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.\nSurely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+    "language": "English (traditional)",
+    "source": "Psalm 23, King James Version (1611), public domain. A Psalm of David.",
+    "occasion": "Prayed for comfort, in times of trouble, illness, grief, and at funerals; daily devotion."
+  },
+  {
+    "id": "psalm-50-have-mercy-on-me-o-god",
+    "title": "Psalm 50 (Have mercy on me, O God)",
+    "altTitles": [
+      "The Penitential Psalm",
+      "Psalm 51",
+      "Miserere"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Penitential",
+    "tags": [
+      "psalm 50",
+      "psalm 51",
+      "repentance",
+      "mercy",
+      "confession",
+      "penitence",
+      "create in me a clean heart"
+    ],
+    "text": "Have mercy on me, O God, according to Thy great mercy; and according to the multitude of Thy compassions blot out my transgression.\n\nWash me thoroughly from mine iniquity, and cleanse me from my sin. For I know mine iniquity, and my sin is ever before me.\n\nAgainst Thee only have I sinned and done this evil before Thee, that Thou mightest be justified in Thy words, and prevail when Thou art judged.\n\nFor behold, I was conceived in iniquities, and in sins did my mother bear me. For behold, Thou hast loved truth; the hidden and secret things of Thy wisdom hast Thou made manifest unto me.\n\nThou shalt sprinkle me with hyssop, and I shall be made clean; Thou shalt wash me, and I shall be made whiter than snow. Thou shalt make me to hear joy and gladness; the bones that be humbled, they shall rejoice.\n\nTurn Thy face away from my sins, and blot out all mine iniquities. Create in me a clean heart, O God, and renew a right spirit within me.\n\nCast me not away from Thy presence, and take not Thy Holy Spirit from me. Restore unto me the joy of Thy salvation, and with Thy governing Spirit establish me.\n\nI shall teach transgressors Thy ways, and the ungodly shall turn back unto Thee. Deliver me from blood-guiltiness, O God, Thou God of my salvation; my tongue shall rejoice in Thy righteousness.\n\nO Lord, Thou shalt open my lips, and my mouth shall declare Thy praise. For if Thou hadst desired sacrifice, I had given it; with whole-burnt offerings Thou shalt not be pleased.\n\nA sacrifice unto God is a broken spirit; a heart that is broken and humbled God will not despise.",
+    "language": "English (traditional)",
+    "source": "Psalm 50 (LXX numbering; Psalm 51 in the Hebrew/KJV numbering), of David; traditional Septuagint-based Orthodox rendering",
+    "occasion": "The foremost penitential psalm; said daily at Matins, in the Six Psalms, in confession, and in countless services and prayer rules"
+  },
+  {
+    "id": "psalm-51-verses-1-12",
+    "title": "Psalm 51 (verses 1-12)",
+    "altTitles": [
+      "Miserere",
+      "Have Mercy Upon Me, O God",
+      "The Penitential Psalm"
+    ],
+    "tradition": "Common",
+    "category": "Psalm",
+    "tags": [
+      "psalm",
+      "penitence",
+      "repentance",
+      "mercy",
+      "confession",
+      "forgiveness",
+      "kjv",
+      "lent",
+      "scripture"
+    ],
+    "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.\nWash me throughly from mine iniquity, and cleanse me from my sin.\nFor I acknowledge my transgressions: and my sin is ever before me.\nAgainst thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.\nBehold, I was shapen in iniquity; and in sin did my mother conceive me.\nBehold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.\nPurge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.\nMake me to hear joy and gladness; that the bones which thou hast broken may rejoice.\nHide thy face from my sins, and blot out all mine iniquities.\nCreate in me a clean heart, O God; and renew a right spirit within me.\nCast me not away from thy presence; and take not thy holy spirit from me.\nRestore unto me the joy of thy salvation; and uphold me with thy free spirit.",
+    "language": "English (traditional)",
+    "source": "Psalm 51:1-12, King James Version (1611), public domain. A Psalm of David, when Nathan the prophet came unto him.",
+    "occasion": "Prayed for repentance and confession of sin; especially during Lent and Ash Wednesday; in times of penitence."
+  },
+  {
+    "id": "psalm-91",
+    "title": "Psalm 91",
+    "altTitles": [
+      "He That Dwelleth in the Secret Place",
+      "Psalm of Protection"
+    ],
+    "tradition": "Common",
+    "category": "Psalm",
+    "tags": [
+      "psalm",
+      "protection",
+      "refuge",
+      "trust",
+      "deliverance",
+      "safety",
+      "kjv",
+      "scripture"
+    ],
+    "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.\nI will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.\nSurely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.\nHe shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.\nThou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;\nNor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.\nA thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.\nOnly with thine eyes shalt thou behold and see the reward of the wicked.\nBecause thou hast made the LORD, which is my refuge, even the most High, thy habitation;\nThere shall no evil befall thee, neither shall any plague come nigh thy dwelling.\nFor he shall give his angels charge over thee, to keep thee in all thy ways.\nThey shall bear thee up in their hands, lest thou dash thy foot against a stone.\nThou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.\nBecause he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.\nHe shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.\nWith long life will I satisfy him, and shew him my salvation.",
+    "language": "English (traditional)",
+    "source": "Psalm 91, King James Version (1611), public domain.",
+    "occasion": "Prayed for protection and deliverance in times of danger, fear, illness, or trouble; bedtime and travel."
+  },
+  {
+    "id": "regina-caeli",
+    "title": "Regina Caeli",
+    "altTitles": [
+      "Queen of Heaven",
+      "Regina Coeli"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "marian",
+      "regina caeli",
+      "easter",
+      "eastertide",
+      "resurrection",
+      "antiphon",
+      "mary"
+    ],
+    "text": "V. Queen of Heaven, rejoice, alleluia.\nR. For he whom thou didst merit to bear, alleluia,\n\nV. Hath risen, as he said, alleluia.\nR. Pray for us to God, alleluia.\n\nV. Rejoice and be glad, O Virgin Mary, alleluia.\nR. For the Lord hath risen indeed, alleluia.\n\nLet us pray.\nO God, who by the Resurrection of thy Son,\nour Lord Jesus Christ,\nhast vouchsafed to make glad the whole world;\ngrant, we beseech thee,\nthat through the intercession of the Virgin Mary, his Mother,\nwe may attain the joys of everlasting life.\nThrough the same Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Marian antiphon of medieval origin (12th century); traditional English translation. Replaces the Angelus during Eastertide.",
+    "occasion": "Prayed in place of the Angelus during Eastertide (from Easter to Pentecost); sung as the final Marian antiphon at Compline in this season; said standing."
+  },
+  {
+    "id": "returning-thanks",
+    "title": "Returning Thanks",
+    "altTitles": [
+      "Grace After Meals",
+      "O give thanks unto the Lord",
+      "Thanksgiving After Meals"
+    ],
+    "tradition": "Lutheran",
+    "category": "Table Grace",
+    "tags": [
+      "meal",
+      "grace",
+      "table",
+      "thanksgiving",
+      "luther",
+      "small catechism",
+      "food",
+      "after meals"
+    ],
+    "text": "O give thanks unto the Lord, for He is good, for His mercy endureth forever. He giveth food to all flesh; He giveth to the beast his food, and to the young ravens which cry. He delighteth not in the strength of the horse; He taketh not pleasure in the legs of a man. The Lord taketh pleasure in them that fear Him, in those that hope in His mercy.\n\nWe thank Thee, Lord God, heavenly Father, through Jesus Christ, our Lord, for all Thy benefits, who livest and reignest with Thee and the Holy Ghost, forever and ever. Amen.",
+    "language": "English (traditional)",
+    "source": "Martin Luther, Small Catechism (1529); Psalm 106:1; Psalm 147:9-11",
+    "occasion": "After meals"
+  },
+  {
+    "id": "sign-of-the-cross",
+    "title": "Sign of the Cross",
+    "altTitles": [
+      "Signum Crucis"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Foundational",
+    "tags": [
+      "sign of the cross",
+      "trinity",
+      "blessing",
+      "daily",
+      "foundational"
+    ],
+    "text": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional invocation of the Holy Trinity; cf. Matthew 28:19",
+    "occasion": "Prayed at the beginning and end of prayers and devotions; throughout the day as a blessing"
+  },
+  {
+    "id": "te-deum",
+    "title": "Te Deum",
+    "altTitles": [
+      "We Praise Thee, O God",
+      "Te Deum Laudamus",
+      "Ambrosian Hymn"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Adoration & Praise",
+    "tags": [
+      "te deum",
+      "praise",
+      "thanksgiving",
+      "hymn",
+      "ambrose",
+      "augustine"
+    ],
+    "text": "We praise Thee, O God: we acknowledge Thee to be the Lord.\nAll the earth doth worship Thee, the Father everlasting.\nTo Thee all Angels cry aloud, the Heavens and all the Powers therein.\nTo Thee Cherubim and Seraphim continually do cry,\nHoly, Holy, Holy, Lord God of Sabaoth;\nHeaven and earth are full of the majesty of Thy glory.\nThe glorious company of the Apostles praise Thee.\nThe goodly fellowship of the Prophets praise Thee.\nThe noble army of Martyrs praise Thee.\nThe holy Church throughout all the world doth acknowledge Thee;\nThe Father, of an infinite majesty;\nThine honourable, true, and only Son;\nAlso the Holy Ghost, the Comforter.\nThou art the King of glory, O Christ.\nThou art the everlasting Son of the Father.\nWhen Thou tookest upon Thee to deliver man, Thou didst not abhor the Virgin's womb.\nWhen Thou hadst overcome the sharpness of death, Thou didst open the Kingdom of Heaven to all believers.\nThou sittest at the right hand of God, in the glory of the Father.\nWe believe that Thou shalt come to be our Judge.\nWe therefore pray Thee, help Thy servants, whom Thou hast redeemed with Thy precious blood.\nMake them to be numbered with Thy Saints, in glory everlasting.\nO Lord, save Thy people, and bless Thine heritage.\nGovern them, and lift them up for ever.\nDay by day we magnify Thee;\nAnd we worship Thy Name ever, world without end.\nVouchsafe, O Lord, to keep us this day without sin.\nO Lord, have mercy upon us, have mercy upon us.\nO Lord, let Thy mercy lighten upon us, as our trust is in Thee.\nO Lord, in Thee have I trusted; let me never be confounded.",
+    "language": "English (traditional)",
+    "source": "Ancient Latin hymn (4th century), traditionally attributed to Sts. Ambrose and Augustine; this English rendering follows the Book of Common Prayer tradition",
+    "occasion": "Thanksgiving; Sundays and feasts at Matins; Te Deum sung in thanksgiving for great blessings"
+  },
+  {
+    "id": "the-aaronic-blessing",
+    "title": "The Aaronic Blessing",
+    "altTitles": [
+      "The Priestly Blessing",
+      "The LORD Bless Thee and Keep Thee",
+      "Birkat Kohanim"
+    ],
+    "tradition": "Common",
+    "category": "Blessing",
+    "tags": [
+      "blessing",
+      "benediction",
+      "aaronic",
+      "priestly",
+      "numbers",
+      "kjv",
+      "scripture",
+      "dismissal"
+    ],
+    "text": "The LORD bless thee, and keep thee:\nThe LORD make his face shine upon thee, and be gracious unto thee:\nThe LORD lift up his countenance upon thee, and give thee peace.",
+    "language": "English (traditional)",
+    "source": "Numbers 6:24-26, King James Version (1611), public domain. The blessing given by God to Aaron and his sons.",
+    "occasion": "Pronounced as a benediction at the close of worship services; blessings over individuals and congregations."
+  },
+  {
+    "id": "the-angelus",
+    "title": "The Angelus",
+    "altTitles": [
+      "Angelus Domini",
+      "The Angel of the Lord"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "marian",
+      "angelus",
+      "incarnation",
+      "annunciation",
+      "devotion",
+      "mary"
+    ],
+    "text": "V. The Angel of the Lord declared unto Mary.\nR. And she conceived of the Holy Ghost.\n\nHail Mary, full of grace, the Lord is with thee;\nblessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death. Amen.\n\nV. Behold the handmaid of the Lord.\nR. Be it done unto me according to thy word.\n\nHail Mary, full of grace, the Lord is with thee;\nblessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death. Amen.\n\nV. And the Word was made flesh.\nR. And dwelt among us.\n\nHail Mary, full of grace, the Lord is with thee;\nblessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death. Amen.\n\nV. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.\n\nLet us pray.\nPour forth, we beseech thee, O Lord,\nthy grace into our hearts;\nthat we, to whom the Incarnation of Christ thy Son\nwas made known by the message of an angel,\nmay by his Passion and Cross\nbe brought to the glory of his Resurrection.\nThrough the same Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional devotion commemorating the Incarnation; concluding collect from the Roman Breviary (cf. Luke 1:28, 1:38; John 1:14).",
+    "occasion": "Prayed three times daily, at 6 a.m., noon, and 6 p.m.; said standing (or kneeling) outside of Eastertide."
+  },
+  {
+    "id": "the-apostles-creed-2",
+    "title": "The Apostles' Creed",
+    "altTitles": [
+      "Symbolum Apostolicum",
+      "I believe in God the Father Almighty"
+    ],
+    "tradition": "Lutheran",
+    "category": "Creed",
+    "tags": [
+      "creed",
+      "apostles",
+      "confession",
+      "faith",
+      "luther",
+      "small catechism",
+      "belief"
+    ],
+    "text": "I believe in God, the Father Almighty, Maker of heaven and earth.\n\nAnd in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, dead, and buried. He descended into hell. The third day He rose again from the dead. He ascended into heaven, and sitteth on the right hand of God the Father Almighty; from thence He shall come to judge the quick and the dead.\n\nI believe in the Holy Ghost; the holy Christian Church, the communion of saints; the forgiveness of sins; the resurrection of the body; and the life everlasting. Amen.",
+    "language": "English (traditional)",
+    "source": "Apostles' Creed; as confessed in Luther's Small Catechism (1529)",
+    "occasion": "Confession of faith in daily prayer and corporate worship"
+  },
+  {
+    "id": "the-apostles-creed",
+    "title": "The Apostles' Creed",
+    "altTitles": [
+      "Symbolum Apostolorum",
+      "Apostles Creed"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Creed",
+    "tags": [
+      "apostles creed",
+      "creed",
+      "faith",
+      "rosary",
+      "profession",
+      "foundational"
+    ],
+    "text": "I believe in God,\nthe Father almighty,\nCreator of heaven and earth,\nand in Jesus Christ, his only Son, our Lord,\nwho was conceived by the Holy Spirit,\nborn of the Virgin Mary,\nsuffered under Pontius Pilate,\nwas crucified, died and was buried;\nhe descended into hell;\non the third day he rose again from the dead;\nhe ascended into heaven,\nand is seated at the right hand of God the Father almighty;\nfrom thence he shall come to judge the living and the dead.\nI believe in the Holy Spirit,\nthe holy catholic Church,\nthe communion of saints,\nthe forgiveness of sins,\nthe resurrection of the body,\nand life everlasting. Amen.",
+    "language": "English (traditional)",
+    "source": "Ancient baptismal creed of the Roman Church",
+    "occasion": "Prayed at the beginning of the Rosary; in baptismal liturgy and daily devotion"
+  },
+  {
+    "id": "the-beatitudes",
+    "title": "The Beatitudes",
+    "altTitles": [
+      "The Blessings",
+      "Sermon on the Mount Blessings"
+    ],
+    "tradition": "Common",
+    "category": "Scripture",
+    "tags": [
+      "beatitudes",
+      "jesus",
+      "sermon on the mount",
+      "blessing",
+      "gospel",
+      "matthew",
+      "kjv",
+      "scripture"
+    ],
+    "text": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:\nAnd he opened his mouth, and taught them, saying,\nBlessed are the poor in spirit: for theirs is the kingdom of heaven.\nBlessed are they that mourn: for they shall be comforted.\nBlessed are the meek: for they shall inherit the earth.\nBlessed are they which do hunger and thirst after righteousness: for they shall be filled.\nBlessed are the merciful: for they shall obtain mercy.\nBlessed are the pure in heart: for they shall see God.\nBlessed are the peacemakers: for they shall be called the children of God.\nBlessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.\nBlessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.\nRejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.",
+    "language": "English (traditional)",
+    "source": "Matthew 5:1-12, King James Version (1611), public domain. The words of Jesus in the Sermon on the Mount.",
+    "occasion": "Read and meditated upon in worship and devotion; teaching of the Christian life; All Saints' Day."
+  },
+  {
+    "id": "the-collect-for-purity",
+    "title": "The Collect for Purity",
+    "altTitles": [
+      "Almighty God, unto whom all hearts be open"
+    ],
+    "tradition": "Anglican",
+    "category": "Collect",
+    "tags": [
+      "purity",
+      "collect",
+      "holy communion",
+      "preparation",
+      "holy spirit",
+      "thoughts"
+    ],
+    "text": "Almighty God, unto whom all hearts be open, all desires known, and from whom no secrets are hid; Cleanse the thoughts of our hearts by the inspiration of thy Holy Spirit, that we may perfectly love thee, and worthily magnify thy holy Name; through Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662, Order for the Administration of the Lord's Supper; attributed to Alcuin / Gregorian Sacramentary",
+    "occasion": "Said by the priest at the beginning of the Holy Communion service"
+  },
+  {
+    "id": "the-doxology",
+    "title": "The Doxology",
+    "altTitles": [
+      "Praise God from Whom All Blessings Flow",
+      "Old Hundredth",
+      "Ken's Doxology"
+    ],
+    "tradition": "Protestant",
+    "category": "Doxology",
+    "tags": [
+      "doxology",
+      "praise",
+      "trinity",
+      "hymn",
+      "thomas ken",
+      "old hundredth",
+      "worship"
+    ],
+    "text": "Praise God, from whom all blessings flow;\nPraise him, all creatures here below;\nPraise him above, ye heavenly host;\nPraise Father, Son, and Holy Ghost. Amen.",
+    "language": "English (traditional)",
+    "source": "Thomas Ken (1637-1711), final stanza of his morning and evening hymns (1674), public domain. Commonly sung to the tune 'Old Hundredth.'",
+    "occasion": "Sung in Protestant worship, especially at the offering and as a closing doxology; grace and praise."
+  },
+  {
+    "id": "the-fatima-prayer",
+    "title": "The Fatima Prayer",
+    "altTitles": [
+      "O My Jesus",
+      "Decade Prayer",
+      "Pardon Prayer"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "rosary",
+      "fatima",
+      "o my jesus",
+      "decade prayer",
+      "mary",
+      "reparation"
+    ],
+    "text": "O my Jesus,\nforgive us our sins,\nsave us from the fires of hell,\nlead all souls to Heaven,\nespecially those in most need of thy mercy.\nAmen.",
+    "language": "English (traditional)",
+    "source": "Given by Our Lady of Fatima to the three shepherd children, 13 July 1917; traditional English rendering.",
+    "occasion": "Prayed at the end of each decade of the Rosary, after the Glory Be."
+  },
+  {
+    "id": "the-general-confession-morning-and-evening-prayer",
+    "title": "The General Confession (Morning and Evening Prayer)",
+    "altTitles": [
+      "Almighty and most merciful Father",
+      "A general Confession to be said of the whole Congregation"
+    ],
+    "tradition": "Anglican",
+    "category": "Penitential",
+    "tags": [
+      "confession",
+      "penitence",
+      "morning prayer",
+      "evening prayer",
+      "sin",
+      "forgiveness",
+      "mercy"
+    ],
+    "text": "Almighty and most merciful Father,\nwe have erred and strayed from thy ways like lost sheep.\nWe have followed too much the devices and desires of our own hearts.\nWe have offended against thy holy laws.\nWe have left undone those things which we ought to have done,\nand we have done those things which we ought not to have done,\nand there is no health in us.\nBut thou, O Lord, have mercy upon us, miserable offenders.\nSpare thou them, O God, which confess their faults.\nRestore thou them that are penitent,\naccording to thy promises declared unto mankind in Christ Jesu our Lord.\nAnd grant, O most merciful Father, for his sake,\nthat we may hereafter live a godly, righteous, and sober life,\nto the glory of thy holy Name. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662, Order for Morning and Evening Prayer",
+    "occasion": "Said by the whole congregation near the beginning of Morning and Evening Prayer"
+  },
+  {
+    "id": "the-general-thanksgiving",
+    "title": "The General Thanksgiving",
+    "altTitles": [
+      "Almighty God, Father of all mercies"
+    ],
+    "tradition": "Anglican",
+    "category": "Thanksgiving",
+    "tags": [
+      "thanksgiving",
+      "gratitude",
+      "morning prayer",
+      "evening prayer",
+      "redemption",
+      "praise"
+    ],
+    "text": "Almighty God, Father of all mercies, we thine unworthy servants do give thee most humble and hearty thanks for all thy goodness and loving-kindness to us, and to all men; [particularly to those who desire now to offer up their praises and thanksgivings for thy late mercies vouchsafed unto them.] We bless thee for our creation, preservation, and all the blessings of this life; but above all, for thine inestimable love in the redemption of the world by our Lord Jesus Christ; for the means of grace, and for the hope of glory. And, we beseech thee, give us that due sense of all thy mercies, that our hearts may be unfeignedly thankful; and that we shew forth thy praise, not only with our lips, but in our lives, by giving up our selves to thy service, and by walking before thee in holiness and righteousness all our days; through Jesus Christ our Lord, to whom, with thee and the Holy Ghost, be all honour and glory, world without end. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662; composed by Bishop Edward Reynolds, added 1662",
+    "occasion": "Said at the end of Morning and Evening Prayer, as a general thanksgiving"
+  },
+  {
+    "id": "the-gloria-patri",
+    "title": "The Gloria Patri",
+    "altTitles": [
+      "Glory Be to the Father",
+      "Lesser Doxology"
+    ],
+    "tradition": "Common",
+    "category": "Doxology",
+    "tags": [
+      "gloria patri",
+      "doxology",
+      "trinity",
+      "glory",
+      "praise",
+      "worship",
+      "psalter"
+    ],
+    "text": "Glory be to the Father, and to the Son, and to the Holy Ghost;\nAs it was in the beginning, is now, and ever shall be, world without end. Amen.",
+    "language": "English (traditional)",
+    "source": "Traditional doxology; English form from the Book of Common Prayer (1662), public domain. Of ancient origin.",
+    "occasion": "Sung or said after psalms and canticles in worship; daily prayer; praise of the Holy Trinity."
+  },
+  {
+    "id": "the-grace",
+    "title": "The Grace",
+    "altTitles": [
+      "The grace of our Lord Jesus Christ",
+      "2 Corinthians 13:14"
+    ],
+    "tradition": "Anglican",
+    "category": "Benediction",
+    "tags": [
+      "grace",
+      "benediction",
+      "blessing",
+      "trinity",
+      "fellowship",
+      "conclusion"
+    ],
+    "text": "The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662; 2 Corinthians 13:14",
+    "occasion": "Said as the concluding blessing of the Litany and other services"
+  },
+  {
+    "id": "the-hail-holy-queen-of-the-brown-scapular-devotion",
+    "title": "The Hail Holy Queen of the Brown Scapular Devotion",
+    "altTitles": [
+      "O Beautiful Flower of Carmel",
+      "Flos Carmeli"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "marian",
+      "carmel",
+      "scapular",
+      "flos carmeli",
+      "mary",
+      "devotion"
+    ],
+    "text": "O beautiful Flower of Carmel,\nmost fruitful vine,\nsplendour of Heaven,\nholy and singular,\nwho broughtest forth the Son of God,\nstill ever remaining a pure virgin,\nassist me in this my necessity.\nO Star of the Sea,\nhelp and protect me.\nShow me that thou art my Mother.\nAmen.",
+    "language": "English (traditional)",
+    "source": "Flos Carmeli, traditionally attributed to St. Simon Stock (13th century); traditional English translation. A prayer of the Carmelite (Brown Scapular) devotion.",
+    "occasion": "Prayed by those enrolled in the Brown Scapular; on the feast of Our Lady of Mount Carmel (16 July) and in Carmelite Marian devotions."
+  },
+  {
+    "id": "the-introduction-to-the-lord-s-prayer",
+    "title": "The Introduction to the Lord's Prayer",
+    "altTitles": [
+      "Luther's Meaning of the Address",
+      "What does this mean? — Our Father"
+    ],
+    "tradition": "Lutheran",
+    "category": "Catechism",
+    "tags": [
+      "lord's prayer",
+      "luther",
+      "small catechism",
+      "explanation",
+      "our father",
+      "instruction"
+    ],
+    "text": "Our Father who art in heaven.\n\nWhat does this mean? God would by these words tenderly invite us to believe that He is our true Father, and that we are His true children, so that we may with all boldness and confidence ask Him as dear children ask their dear father.",
+    "language": "English (traditional)",
+    "source": "Martin Luther, Small Catechism (1529), The Lord's Prayer, Introduction",
+    "occasion": "Catechetical instruction; reflection on the Lord's Prayer"
+  },
+  {
+    "id": "the-jesus-prayer",
+    "title": "The Jesus Prayer",
+    "altTitles": [
+      "Prayer of the Heart",
+      "Lord Jesus Christ, Son of God, have mercy on me"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Devotional",
+    "tags": [
+      "jesus prayer",
+      "prayer of the heart",
+      "hesychasm",
+      "mercy",
+      "sinner",
+      "prayer rope",
+      "unceasing prayer"
+    ],
+    "text": "Lord Jesus Christ, Son of God, have mercy on me, a sinner.",
+    "language": "English (traditional)",
+    "source": "Drawn from the publican's prayer (Luke 18:13) and the cry of the blind man (Luke 18:38); central to the hesychast tradition and The Philokalia",
+    "occasion": "Prayed repeatedly and unceasingly throughout the day, often on a prayer rope (komboskini); the heart of personal Orthodox devotion"
+  },
+  {
+    "id": "the-litany-of-loreto",
+    "title": "The Litany of Loreto",
+    "altTitles": [
+      "Litany of the Blessed Virgin Mary",
+      "Litany of Our Lady"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "marian",
+      "litany",
+      "loreto",
+      "litany of loreto",
+      "invocations",
+      "mary"
+    ],
+    "text": "Lord, have mercy on us.\nChrist, have mercy on us.\nLord, have mercy on us.\nChrist, hear us. Christ, graciously hear us.\nGod the Father of heaven, have mercy on us.\nGod the Son, Redeemer of the world, have mercy on us.\nGod the Holy Ghost, have mercy on us.\nHoly Trinity, one God, have mercy on us.\n\nHoly Mary, pray for us.\nHoly Mother of God, pray for us.\nHoly Virgin of virgins, pray for us.\nMother of Christ, pray for us.\nMother of divine grace, pray for us.\nMother most pure, pray for us.\nMother most chaste, pray for us.\nMother inviolate, pray for us.\nMother undefiled, pray for us.\nMother most amiable, pray for us.\nMother most admirable, pray for us.\nMother of good counsel, pray for us.\nMother of our Creator, pray for us.\nMother of our Saviour, pray for us.\nVirgin most prudent, pray for us.\nVirgin most venerable, pray for us.\nVirgin most renowned, pray for us.\nVirgin most powerful, pray for us.\nVirgin most merciful, pray for us.\nVirgin most faithful, pray for us.\nMirror of justice, pray for us.\nSeat of wisdom, pray for us.\nCause of our joy, pray for us.\nSpiritual vessel, pray for us.\nVessel of honour, pray for us.\nSingular vessel of devotion, pray for us.\nMystical rose, pray for us.\nTower of David, pray for us.\nTower of ivory, pray for us.\nHouse of gold, pray for us.\nArk of the covenant, pray for us.\nGate of heaven, pray for us.\nMorning star, pray for us.\nHealth of the sick, pray for us.\nRefuge of sinners, pray for us.\nComforter of the afflicted, pray for us.\nHelp of Christians, pray for us.\nQueen of angels, pray for us.\nQueen of patriarchs, pray for us.\nQueen of prophets, pray for us.\nQueen of apostles, pray for us.\nQueen of martyrs, pray for us.\nQueen of confessors, pray for us.\nQueen of virgins, pray for us.\nQueen of all saints, pray for us.\nQueen conceived without original sin, pray for us.\nQueen assumed into heaven, pray for us.\nQueen of the most holy Rosary, pray for us.\nQueen of peace, pray for us.\n\nLamb of God, who takest away the sins of the world,\nspare us, O Lord.\nLamb of God, who takest away the sins of the world,\ngraciously hear us, O Lord.\nLamb of God, who takest away the sins of the world,\nhave mercy on us.\n\nV. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.",
+    "language": "English (traditional)",
+    "source": "Litany of Loreto, approved 1587 (Sixtus V); named for the shrine of Loreto. Text given here in its traditional form; this is the full set of invocations as customarily prayed.",
+    "occasion": "Prayed in honour of the Blessed Virgin Mary, especially after the Rosary, during May and October devotions, and at Marian feasts."
+  },
+  {
+    "id": "the-lord-s-prayer-2",
+    "title": "The Lord's Prayer",
+    "altTitles": [
+      "Our Father",
+      "Pater Noster"
+    ],
+    "tradition": "Anglican",
+    "category": "Foundational",
+    "tags": [
+      "lord's prayer",
+      "our father",
+      "pater noster",
+      "doxology",
+      "dominical",
+      "morning prayer",
+      "evening prayer"
+    ],
+    "text": "Our Father, which art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done in earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive them that trespass against us. And lead us not into temptation, But deliver us from evil: For thine is the kingdom, The power, and the glory, For ever and ever. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662 (with doxology); St. Matthew 6:9-13 and St. Luke 11:2-4",
+    "occasion": "Said throughout the daily offices and Holy Communion; the form with the doxology used at the opening of the offices"
+  },
+  {
+    "id": "the-lord-s-prayer-3",
+    "title": "The Lord's Prayer",
+    "altTitles": [
+      "Our Father",
+      "Pater Noster"
+    ],
+    "tradition": "Lutheran",
+    "category": "Foundational",
+    "tags": [
+      "lord's prayer",
+      "our father",
+      "luther",
+      "small catechism",
+      "jesus",
+      "petitions",
+      "kingdom"
+    ],
+    "text": "Our Father who art in heaven.\nHallowed be Thy name.\nThy kingdom come.\nThy will be done on earth as it is in heaven.\nGive us this day our daily bread;\nand forgive us our trespasses,\nas we forgive those who trespass against us;\nand lead us not into temptation,\nbut deliver us from evil.\nFor Thine is the kingdom and the power and the glory forever and ever. Amen.",
+    "language": "English (traditional)",
+    "source": "Martin Luther, Small Catechism (1529); Matthew 6:9-13",
+    "occasion": "Daily prayer; corporate and private worship"
+  },
+  {
+    "id": "the-lord-s-prayer-4",
+    "title": "The Lord's Prayer",
+    "altTitles": [
+      "Our Father",
+      "Pater Noster",
+      "The Model Prayer"
+    ],
+    "tradition": "Protestant",
+    "category": "Prayer",
+    "tags": [
+      "lords prayer",
+      "our father",
+      "jesus",
+      "matthew",
+      "kjv",
+      "doxology",
+      "daily prayer",
+      "scripture"
+    ],
+    "text": "Our Father which art in heaven, Hallowed be thy name.\nThy kingdom come. Thy will be done in earth, as it is in heaven.\nGive us this day our daily bread.\nAnd forgive us our debts, as we forgive our debtors.\nAnd lead us not into temptation, but deliver us from evil:\nFor thine is the kingdom, and the power, and the glory, for ever. Amen.",
+    "language": "English (traditional)",
+    "source": "Matthew 6:9-13, King James Version (1611), public domain. The prayer taught by Jesus, with the traditional Protestant doxology.",
+    "occasion": "Prayed in nearly all Christian worship and personal devotion; the central prayer taught by Christ."
+  },
+  {
+    "id": "the-lord-s-prayer",
+    "title": "The Lord's Prayer",
+    "altTitles": [
+      "Our Father",
+      "Pater Noster"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Foundational",
+    "tags": [
+      "our father",
+      "lord's prayer",
+      "pater noster",
+      "daily",
+      "rosary",
+      "foundational"
+    ],
+    "text": "Our Father, who art in heaven,\nhallowed be thy name;\nthy kingdom come;\nthy will be done on earth as it is in heaven.\nGive us this day our daily bread;\nand forgive us our trespasses,\nas we forgive those who trespass against us;\nand lead us not into temptation,\nbut deliver us from evil. Amen.",
+    "language": "English (traditional)",
+    "source": "Matthew 6:9-13; Luke 11:2-4; taught by Jesus Christ",
+    "occasion": "Prayed daily; at Mass; in the Rosary and the Liturgy of the Hours"
+  },
+  {
+    "id": "the-magnificat",
+    "title": "The Magnificat",
+    "altTitles": [
+      "The Song of Mary",
+      "Canticle of the Blessed Virgin Mary",
+      "My Soul Doth Magnify the Lord"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "marian",
+      "magnificat",
+      "canticle",
+      "luke",
+      "song of mary",
+      "vespers"
+    ],
+    "text": "My soul doth magnify the Lord,\nand my spirit hath rejoiced in God my Saviour.\nFor he hath regarded the lowliness of his handmaiden.\nFor behold, from henceforth all generations shall call me blessed.\nFor he that is mighty hath magnified me;\nand holy is his Name.\nAnd his mercy is on them that fear him\nthroughout all generations.\nHe hath shewed strength with his arm;\nhe hath scattered the proud in the imagination of their hearts.\nHe hath put down the mighty from their seat,\nand hath exalted the humble and meek.\nHe hath filled the hungry with good things;\nand the rich he hath sent empty away.\nHe remembering his mercy hath holpen his servant Israel,\nas he promised to our forefathers,\nAbraham and his seed for ever.\n\nGlory be to the Father, and to the Son, and to the Holy Ghost;\nas it was in the beginning, is now, and ever shall be,\nworld without end. Amen.",
+    "language": "English (traditional)",
+    "source": "Luke 1:46–55; traditional English text from the Book of Common Prayer (1662).",
+    "occasion": "The Gospel canticle sung daily at Vespers (Evensong); prayed on the feasts of the Blessed Virgin Mary."
+  },
+  {
+    "id": "the-memorare",
+    "title": "The Memorare",
+    "altTitles": [
+      "Remember, O most gracious Virgin Mary",
+      "Memorare"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "marian",
+      "memorare",
+      "intercession",
+      "mary",
+      "prayer to mary"
+    ],
+    "text": "Remember, O most gracious Virgin Mary,\nthat never was it known\nthat anyone who fled to thy protection,\nimplored thy help, or sought thine intercession,\nwas left unaided.\nInspired by this confidence,\nI fly unto thee, O Virgin of virgins, my Mother;\nto thee do I come, before thee I stand,\nsinful and sorrowful.\nO Mother of the Word Incarnate,\ndespise not my petitions,\nbut in thy mercy hear and answer me.\nAmen.",
+    "language": "English (traditional)",
+    "source": "Prayer popularized by St. Francis de Sales (17th century); long attributed in tradition to St. Bernard of Clairvaux.",
+    "occasion": "Prayed in time of need, distress, or when seeking the Blessed Virgin's intercession; a common daily Marian devotion."
+  },
+  {
+    "id": "the-nicene-creed-2",
+    "title": "The Nicene Creed",
+    "altTitles": [
+      "The Symbol of Faith",
+      "Nicene-Constantinopolitan Creed",
+      "I believe in one God"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Creed",
+    "tags": [
+      "nicene creed",
+      "symbol of faith",
+      "creed",
+      "i believe",
+      "trinity",
+      "incarnation",
+      "without filioque"
+    ],
+    "text": "I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible;\n\nAnd in one Lord Jesus Christ, the Son of God, the Only-begotten, begotten of the Father before all ages; Light of Light, true God of true God, begotten, not made; of one essence with the Father, by Whom all things were made;\n\nWho for us men and for our salvation came down from heaven, and was incarnate of the Holy Spirit and the Virgin Mary, and was made man;\n\nAnd was crucified also for us under Pontius Pilate, and suffered, and was buried;\n\nAnd the third day He rose again, according to the Scriptures;\n\nAnd ascended into heaven, and sitteth at the right hand of the Father;\n\nAnd He shall come again with glory to judge the living and the dead, Whose Kingdom shall have no end.\n\nAnd I believe in the Holy Spirit, the Lord, the Giver of Life, Who proceedeth from the Father; Who with the Father and the Son together is worshipped and glorified; Who spake by the Prophets.\n\nIn one Holy, Catholic, and Apostolic Church.\n\nI acknowledge one Baptism for the remission of sins.\n\nI look for the resurrection of the dead, and the life of the age to come. Amen.",
+    "language": "English (traditional)",
+    "source": "First Ecumenical Council of Nicaea (325) and Second Ecumenical Council of Constantinople (381). Orthodox form: the clause reads 'Who proceedeth from the Father' WITHOUT the Filioque ('and the Son'), which the Orthodox Church does not include.",
+    "occasion": "Confessed at the Divine Liturgy, at Baptism, in daily prayer rules, and as the Church's profession of faith"
+  },
+  {
+    "id": "the-nicene-creed",
+    "title": "The Nicene Creed",
+    "altTitles": [
+      "Niceno-Constantinopolitan Creed",
+      "Symbolum Nicaenum"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Creed",
+    "tags": [
+      "nicene creed",
+      "creed",
+      "faith",
+      "mass",
+      "profession",
+      "trinity"
+    ],
+    "text": "I believe in one God,\nthe Father almighty,\nmaker of heaven and earth,\nand of all things visible and invisible.\nAnd in one Lord Jesus Christ,\nthe only-begotten Son of God,\nborn of the Father before all ages.\nGod of God, Light of Light,\ntrue God of true God;\nbegotten, not made;\nof one substance with the Father,\nby whom all things were made.\nWho for us men and for our salvation\ncame down from heaven,\nand was incarnate by the Holy Spirit of the Virgin Mary,\nand was made man.\nHe was crucified also for us, suffered under Pontius Pilate,\nand was buried.\nAnd on the third day he rose again, according to the Scriptures,\nand ascended into heaven.\nHe sitteth at the right hand of the Father,\nand he shall come again with glory\nto judge the living and the dead;\nof whose kingdom there shall be no end.\nAnd I believe in the Holy Spirit, the Lord and giver of life,\nwho proceedeth from the Father and the Son;\nwho together with the Father and the Son is adored and glorified;\nwho spoke by the prophets.\nAnd I believe in one, holy, catholic and apostolic Church.\nI confess one baptism for the remission of sins.\nAnd I look for the resurrection of the dead,\nand the life of the world to come. Amen.",
+    "language": "English (traditional)",
+    "source": "Council of Nicaea (325) and Constantinople (381); traditional English form",
+    "occasion": "Professed at Sunday and solemnity Mass; in catechesis and devotion"
+  },
+  {
+    "id": "the-prayer-of-jabez",
+    "title": "The Prayer of Jabez",
+    "altTitles": [
+      "Jabez's Prayer",
+      "Oh That Thou Wouldest Bless Me Indeed"
+    ],
+    "tradition": "Common",
+    "category": "Scripture",
+    "tags": [
+      "jabez",
+      "blessing",
+      "prayer",
+      "chronicles",
+      "kjv",
+      "scripture",
+      "petition"
+    ],
+    "text": "And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested.",
+    "language": "English (traditional)",
+    "source": "1 Chronicles 4:10, King James Version (1611), public domain.",
+    "occasion": "Prayed as a personal petition for blessing, increase, God's presence, and protection from evil."
+  },
+  {
+    "id": "the-second-collect-at-evening-prayer-for-peace",
+    "title": "The Second Collect at Evening Prayer (for Peace)",
+    "altTitles": [
+      "O God, from whom all holy desires",
+      "Collect for Peace at Evening Prayer"
+    ],
+    "tradition": "Anglican",
+    "category": "Collect",
+    "tags": [
+      "peace",
+      "evening prayer",
+      "collect",
+      "holy desires",
+      "rest",
+      "protection"
+    ],
+    "text": "O God, from whom all holy desires, all good counsels, and all just works do proceed: Give unto thy servants that peace which the world cannot give; that both our hearts may be set to obey thy commandments, and also that by thee we being defended from the fear of our enemies may pass our time in rest and quietness; through the merits of Jesus Christ our Saviour. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662, Order for Evening Prayer; from the Gelasian and Gregorian Sacramentaries",
+    "occasion": "The second of the three collects said at Evening Prayer"
+  },
+  {
+    "id": "the-second-collect-for-peace-morning-prayer",
+    "title": "The Second Collect, for Peace (Morning Prayer)",
+    "altTitles": [
+      "O God, who art the author of peace"
+    ],
+    "tradition": "Anglican",
+    "category": "Collect",
+    "tags": [
+      "peace",
+      "morning prayer",
+      "collect",
+      "protection",
+      "defence",
+      "enemies"
+    ],
+    "text": "O God, who art the author of peace and lover of concord, in knowledge of whom standeth our eternal life, whose service is perfect freedom: Defend us thy humble servants in all assaults of our enemies; that we, surely trusting in thy defence, may not fear the power of any adversaries; through the might of Jesus Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662, Order for Morning Prayer; from the Gelasian Sacramentary",
+    "occasion": "The second of the three collects said at Morning Prayer"
+  },
+  {
+    "id": "the-serenity-prayer",
+    "title": "The Serenity Prayer",
+    "altTitles": [
+      "Niebuhr's Prayer"
+    ],
+    "tradition": "Protestant",
+    "category": "Devotional",
+    "tags": [
+      "serenity",
+      "niebuhr",
+      "courage",
+      "wisdom",
+      "acceptance",
+      "recovery",
+      "peace"
+    ],
+    "text": "God, grant me the serenity\nto accept the things I cannot change,\nthe courage to change the things I can,\nand the wisdom to know the difference.",
+    "language": "English (traditional)",
+    "source": "Attributed to Reinhold Niebuhr (1892–1971); the short form is widely circulated in the public domain",
+    "occasion": "Times of distress, decision, or recovery; daily devotion"
+  },
+  {
+    "id": "the-sign-of-the-cross-and-apostles-creed-of-the-rosary",
+    "title": "The Sign of the Cross and Apostles' Creed of the Rosary",
+    "altTitles": [
+      "The Apostles' Creed",
+      "I Believe in God"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "rosary",
+      "creed",
+      "apostles creed",
+      "opening prayer",
+      "profession of faith"
+    ],
+    "text": "In the name of the Father, and of the Son, and of the Holy Ghost. Amen.\n\nI believe in God,\nthe Father almighty,\nCreator of heaven and earth;\nand in Jesus Christ, his only Son, our Lord;\nwho was conceived by the Holy Ghost,\nborn of the Virgin Mary,\nsuffered under Pontius Pilate,\nwas crucified, died, and was buried.\nHe descended into hell;\nthe third day he rose again from the dead;\nhe ascended into heaven,\nand sitteth at the right hand of God the Father almighty;\nfrom thence he shall come to judge the living and the dead.\nI believe in the Holy Ghost,\nthe holy catholic Church,\nthe communion of saints,\nthe forgiveness of sins,\nthe resurrection of the body,\nand life everlasting.\nAmen.",
+    "language": "English (traditional)",
+    "source": "The Apostles' Creed, ancient baptismal symbol of the Roman Church; traditional English form prayed at the opening of the Rosary on the crucifix.",
+    "occasion": "Prayed at the beginning of the Rosary, on the crucifix, immediately after the Sign of the Cross."
+  },
+  {
+    "id": "the-te-deum",
+    "title": "The Te Deum",
+    "altTitles": [
+      "Te Deum Laudamus",
+      "We Praise Thee, O God",
+      "The Ambrosian Hymn"
+    ],
+    "tradition": "Lutheran",
+    "category": "Canticle",
+    "tags": [
+      "te deum",
+      "praise",
+      "canticle",
+      "matins",
+      "thanksgiving",
+      "trinity",
+      "hymn"
+    ],
+    "text": "We praise Thee, O God; we acknowledge Thee to be the Lord.\nAll the earth doth worship Thee, the Father everlasting.\nTo Thee all angels cry aloud, the heavens and all the powers therein.\nTo Thee cherubim and seraphim continually do cry:\nHoly, holy, holy, Lord God of Sabaoth;\nHeaven and earth are full of the majesty of Thy glory.\nThe glorious company of the apostles praise Thee.\nThe goodly fellowship of the prophets praise Thee.\nThe noble army of martyrs praise Thee.\nThe holy Church throughout all the world doth acknowledge Thee:\nthe Father, of an infinite majesty;\nThine honourable, true, and only Son;\nalso the Holy Ghost, the Comforter.\n\nThou art the King of glory, O Christ.\nThou art the everlasting Son of the Father.\nWhen Thou tookest upon Thee to deliver man, Thou didst not abhor the Virgin's womb.\nWhen Thou hadst overcome the sharpness of death, Thou didst open the kingdom of heaven to all believers.\nThou sittest at the right hand of God, in the glory of the Father.\nWe believe that Thou shalt come to be our Judge.\nWe therefore pray Thee, help Thy servants, whom Thou hast redeemed with Thy precious blood.\nMake them to be numbered with Thy saints in glory everlasting.\n\nO Lord, save Thy people, and bless Thine heritage.\nGovern them, and lift them up forever.\nDay by day we magnify Thee;\nand we worship Thy name ever, world without end.\nVouchsafe, O Lord, to keep us this day without sin.\nO Lord, have mercy upon us, have mercy upon us.\nO Lord, let Thy mercy be upon us, as our trust is in Thee.\nO Lord, in Thee have I trusted; let me never be confounded.",
+    "language": "English (traditional)",
+    "source": "Ancient hymn (attributed to Ambrose and Augustine, c. 4th century); retained in Lutheran Matins, Book of Common Prayer translation",
+    "occasion": "Matins; festivals and services of thanksgiving"
+  },
+  {
+    "id": "the-third-collect-at-evening-prayer-for-aid-against-all-peri",
+    "title": "The Third Collect at Evening Prayer (for Aid against all Perils)",
+    "altTitles": [
+      "Lighten our darkness",
+      "Collect for Aid against all Perils"
+    ],
+    "tradition": "Anglican",
+    "category": "Collect",
+    "tags": [
+      "evening prayer",
+      "collect",
+      "night",
+      "darkness",
+      "protection",
+      "perils",
+      "compline"
+    ],
+    "text": "Lighten our darkness, we beseech thee, O Lord; and by thy great mercy defend us from all perils and dangers of this night; for the love of thy only Son, our Saviour, Jesus Christ. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662, Order for Evening Prayer; from the Gelasian Sacramentary",
+    "occasion": "The third of the three collects said at Evening Prayer"
+  },
+  {
+    "id": "the-third-collect-for-grace-morning-prayer",
+    "title": "The Third Collect, for Grace (Morning Prayer)",
+    "altTitles": [
+      "O Lord, our heavenly Father, Almighty and everlasting God"
+    ],
+    "tradition": "Anglican",
+    "category": "Collect",
+    "tags": [
+      "grace",
+      "morning prayer",
+      "collect",
+      "protection",
+      "day",
+      "sin",
+      "danger"
+    ],
+    "text": "O Lord, our heavenly Father, Almighty and everlasting God, who hast safely brought us to the beginning of this day: Defend us in the same with thy mighty power; and grant that this day we fall into no sin, neither run into any kind of danger; but that all our doings may be ordered by thy governance, to do always that is righteous in thy sight; through Jesus Christ our Lord. Amen.",
+    "language": "English (traditional)",
+    "source": "Book of Common Prayer 1662, Order for Morning Prayer; from the Gelasian Sacramentary",
+    "occasion": "The third of the three collects said at Morning Prayer"
+  },
+  {
+    "id": "the-trisagion-prayers",
+    "title": "The Trisagion Prayers",
+    "altTitles": [
+      "Holy God",
+      "The Beginning Prayers"
+    ],
+    "tradition": "Eastern Orthodox",
+    "category": "Daily Office",
+    "tags": [
+      "trisagion",
+      "holy god",
+      "beginning prayers",
+      "thrice-holy",
+      "all-holy trinity",
+      "lord have mercy",
+      "our father"
+    ],
+    "text": "Holy God, Holy Mighty, Holy Immortal, have mercy on us. (thrice)\n\nGlory to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.\n\nO most holy Trinity, have mercy on us. O Lord, cleanse us from our sins. O Master, pardon our transgressions. O Holy One, visit and heal our infirmities, for Thy Name's sake.\n\nLord, have mercy. (thrice)\n\nGlory to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.\n\nOur Father, Who art in heaven, hallowed be Thy Name. Thy Kingdom come, Thy will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one.",
+    "language": "English (traditional)",
+    "source": "Traditional Byzantine prayers; the Trisagion ('Holy God...') is of ancient origin (5th century, Constantinople); the Lord's Prayer from Matthew 6:9-13 / Luke 11:2-4",
+    "occasion": "Said at the beginning of most Orthodox services and private prayer rules, morning and evening"
+  },
+  {
+    "id": "the-wesley-covenant-prayer",
+    "title": "The Wesley Covenant Prayer",
+    "altTitles": [
+      "A Covenant Prayer in the Wesleyan Tradition",
+      "Covenant Prayer"
+    ],
+    "tradition": "Methodist",
+    "category": "Devotional",
+    "tags": [
+      "wesley",
+      "covenant",
+      "methodist",
+      "consecration",
+      "surrender",
+      "discipleship",
+      "self-offering"
+    ],
+    "text": "I am no longer my own, but thine.\nPut me to what thou wilt, rank me with whom thou wilt.\nPut me to doing, put me to suffering.\nLet me be employed by thee or laid aside for thee,\nexalted for thee or brought low for thee.\nLet me be full, let me be empty.\nLet me have all things, let me have nothing.\nI freely and heartily yield all things\nto thy pleasure and disposal.\nAnd now, O glorious and blessed God,\nFather, Son, and Holy Spirit,\nthou art mine, and I am thine. So be it.\nAnd the covenant which I have made on earth,\nlet it be ratified in heaven. Amen.",
+    "language": "English (traditional)",
+    "source": "John Wesley, Covenant Service (Methodist Covenant Renewal Service, 18th century)",
+    "occasion": "Watchnight / New Year Covenant Service; personal renewal of dedication"
+  },
+  {
+    "id": "veni-sancte-spiritus-come-holy-ghost",
+    "title": "Veni Sancte Spiritus (Come, Holy Ghost)",
+    "altTitles": [
+      "Come, Holy Ghost, God and Lord",
+      "Invocation of the Holy Spirit"
+    ],
+    "tradition": "Lutheran",
+    "category": "To the Holy Spirit",
+    "tags": [
+      "holy spirit",
+      "holy ghost",
+      "pentecost",
+      "comforter",
+      "luther",
+      "invocation",
+      "gifts"
+    ],
+    "text": "Come, Holy Ghost, God and Lord!\nBe all Thy graces now outpoured\nOn each believer's mind and heart;\nThy fervent love to them impart.\nLord, by the brightness of Thy light\nThou in the faith dost men unite\nOf every land and every tongue;\nThis to Thy praise, O Lord, our God, be sung.\nHallelujah! Hallelujah!",
+    "language": "English (traditional)",
+    "source": "Martin Luther (1524), 'Komm, Heiliger Geist, Herre Gott' (stanza 1); based on the ancient antiphon Veni Sancte Spiritus",
+    "occasion": "Pentecost; invocation of the Holy Spirit before worship, preaching, or instruction"
+  },
+  {
+    "id": "we-fly-to-thy-protection",
+    "title": "We Fly to Thy Protection",
+    "altTitles": [
+      "Sub Tuum Praesidium",
+      "Beneath Thy Protection",
+      "We Fly to Thy Patronage"
+    ],
+    "tradition": "Roman Catholic",
+    "category": "Marian",
+    "tags": [
+      "marian",
+      "sub tuum praesidium",
+      "protection",
+      "intercession",
+      "ancient",
+      "mary"
+    ],
+    "text": "We fly to thy protection,\nO holy Mother of God;\ndespise not our petitions\nin our necessities,\nbut deliver us always\nfrom all dangers,\nO glorious and blessed Virgin.\nAmen.",
+    "language": "English (traditional)",
+    "source": "Sub Tuum Praesidium; the oldest known prayer to the Blessed Virgin Mary (Greek text on the Rylands Papyrus, c. 3rd century).",
+    "occasion": "Prayed for protection and intercession; used in times of danger and as a concluding antiphon in various devotions."
+  },
+  {
+    "id": "westminster-shorter-catechism-question-1",
+    "title": "Westminster Shorter Catechism, Question 1",
+    "altTitles": [
+      "The Chief End of Man",
+      "Westminster Q1"
+    ],
+    "tradition": "Presbyterian",
+    "category": "Penitential",
+    "tags": [
+      "westminster",
+      "catechism",
+      "chief end",
+      "glorify god",
+      "presbyterian",
+      "confession",
+      "purpose"
+    ],
+    "text": "Q. What is the chief end of man?\n\nA. Man's chief end is to glorify God, and to enjoy him for ever.",
+    "language": "English (traditional)",
+    "source": "Westminster Shorter Catechism (1647), Question 1",
+    "occasion": "Catechetical instruction; confession of the purpose of human life"
+  },
+  {
+    "id": "westminster-shorter-catechism-question-4",
+    "title": "Westminster Shorter Catechism, Question 4",
+    "altTitles": [
+      "What is God?",
+      "Westminster Q4"
+    ],
+    "tradition": "Presbyterian",
+    "category": "Penitential",
+    "tags": [
+      "westminster",
+      "catechism",
+      "attributes of god",
+      "presbyterian",
+      "confession",
+      "doctrine of god"
+    ],
+    "text": "Q. What is God?\n\nA. God is a Spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness, and truth.",
+    "language": "English (traditional)",
+    "source": "Westminster Shorter Catechism (1647), Question 4",
+    "occasion": "Catechetical instruction; confession concerning the nature of God"
+  }
+]
