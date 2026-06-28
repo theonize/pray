@@ -675,96 +675,6 @@
     "occasion": "Prayed before meals"
   },
   {
-    "id": "hail-mary",
-    "title": "Hail Mary",
-    "altTitles": [
-      "Ave Maria",
-      "Angelic Salutation"
-    ],
-    "tradition": "Roman Catholic",
-    "category": "Marian",
-    "tags": [
-      "hail mary",
-      "ave maria",
-      "mary",
-      "rosary",
-      "marian",
-      "daily"
-    ],
-    "text": "Hail Mary, full of grace,\nthe Lord is with thee;\nblessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death. Amen.",
-    "language": "English (traditional)",
-    "source": "Luke 1:28, 42; with ecclesiastical petition added by tradition",
-    "occasion": "Prayed daily; the principal prayer of the Rosary and the Angelus"
-  },
-  {
-    "id": "hail-holy-queen",
-    "title": "Hail, Holy Queen",
-    "altTitles": [
-      "Salve Regina",
-      "Hail Holy Queen Mother of Mercy"
-    ],
-    "tradition": "Roman Catholic",
-    "category": "Marian",
-    "tags": [
-      "marian",
-      "rosary",
-      "salve regina",
-      "hail holy queen",
-      "antiphon",
-      "mary"
-    ],
-    "text": "Hail, holy Queen, Mother of mercy,\nour life, our sweetness, and our hope.\nTo thee do we cry,\npoor banished children of Eve.\nTo thee do we send up our sighs,\nmourning and weeping in this valley of tears.\nTurn then, most gracious Advocate,\nthine eyes of mercy toward us,\nand after this our exile,\nshow unto us the blessed fruit of thy womb, Jesus.\nO clement, O loving, O sweet Virgin Mary.\n\nV. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.",
-    "language": "English (traditional)",
-    "source": "Marian antiphon attributed to Hermann of Reichenau (Hermann Contractus), 11th century; traditional English translation. Recited at the close of the Rosary.",
-    "occasion": "Recited at the conclusion of the Rosary; sung as the final Marian antiphon at Compline from Trinity Sunday to Advent."
-  },
-  {
-    "id": "heidelberg-catechism-lord-s-day-1-question-and-answer-1",
-    "title": "Heidelberg Catechism, Lord's Day 1, Question and Answer 1",
-    "altTitles": [
-      "My Only Comfort",
-      "Heidelberg Q1"
-    ],
-    "tradition": "Reformed",
-    "category": "Penitential",
-    "tags": [
-      "heidelberg",
-      "catechism",
-      "comfort",
-      "reformed",
-      "belonging",
-      "assurance",
-      "confession"
-    ],
-    "text": "Q. What is thy only comfort in life and death?\n\nA. That I, with body and soul, both in life and death, am not my own, but belong unto my faithful Saviour Jesus Christ; who, with his precious blood, hath fully satisfied for all my sins, and delivered me from all the power of the devil; and so preserves me, that without the will of my heavenly Father not a hair can fall from my head; yea, that all things must be subservient to my salvation, and therefore, by his Holy Spirit, he also assures me of eternal life, and makes me sincerely willing and ready, henceforth, to live unto him.",
-    "language": "English (traditional)",
-    "source": "Heidelberg Catechism (1563), Lord's Day 1, Q&A 1; traditional English translation",
-    "occasion": "Catechetical instruction; confession of faith and assurance"
-  },
-  {
-    "id": "it-is-truly-meet",
-    "title": "It Is Truly Meet",
-    "altTitles": [
-      "Axion Estin",
-      "It is truly right to bless thee, O Theotokos"
-    ],
-    "tradition": "Eastern Orthodox",
-    "category": "Marian",
-    "tags": [
-      "theotokos",
-      "axion estin",
-      "mary",
-      "mother of god",
-      "cherubim",
-      "seraphim",
-      "magnify"
-    ],
-    "text": "It is truly meet to bless thee, O Theotokos, ever-blessed and most pure, and the Mother of our God. More honourable than the Cherubim, and more glorious beyond compare than the Seraphim; without corruption thou gavest birth to God the Word: true Theotokos, we magnify thee.",
-    "language": "English (traditional)",
-    "source": "Byzantine hymn to the Mother of God; the refrain 'More honourable than the Cherubim' attributed to St. Cosmas the Hymnographer (8th c.), the opening verse traditionally revealed at Mount Athos",
-    "occasion": "Sung at the Divine Liturgy after the consecration, at Matins, and in daily prayer rules as a hymn to the Theotokos"
-  },
-  {
     "id": "john-calvin-s-prayer-before-the-study-of-scripture",
     "title": "John Calvin's Prayer Before the Study of Scripture",
     "altTitles": [
@@ -944,30 +854,6 @@
     "language": "English (traditional)",
     "source": "Ancient Byzantine hymn invoking the Holy Spirit, sung as a sticheron of Pentecost",
     "occasion": "Said at the beginning of prayer (after Pentecost through to the eve of Pentecost it is restored); opens most services and prayer rules; invocation of the Holy Spirit before any undertaking"
-  },
-  {
-    "id": "o-theotokos-and-virgin-rejoice",
-    "title": "O Theotokos and Virgin, Rejoice",
-    "altTitles": [
-      "Rejoice, O Virgin Theotokos",
-      "Theotoke Parthene",
-      "The Angelic Salutation"
-    ],
-    "tradition": "Eastern Orthodox",
-    "category": "Marian",
-    "tags": [
-      "theotokos",
-      "virgin",
-      "rejoice",
-      "hail mary",
-      "annunciation",
-      "mother of god",
-      "vespers"
-    ],
-    "text": "O Theotokos and Virgin, rejoice, Mary full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, for thou hast borne the Saviour of our souls.",
-    "language": "English (traditional)",
-    "source": "Troparion based on the Annunciation (Luke 1:28, 1:42); the Orthodox counterpart of the Ave Maria",
-    "occasion": "Sung at Great Vespers (especially Sunday) and used in daily prayer; an Orthodox salutation of the Mother of God"
   },
   {
     "id": "phos-hilaron-o-gladsome-light",
@@ -1176,28 +1062,6 @@
     "occasion": "Prayed daily, often morning and night; commonly taught to children"
   },
   {
-    "id": "prayer-to-our-lady-of-the-rosary",
-    "title": "Prayer to Our Lady of the Rosary",
-    "altTitles": [
-      "The Rosary's Concluding Prayer",
-      "O God, whose only-begotten Son"
-    ],
-    "tradition": "Roman Catholic",
-    "category": "Marian",
-    "tags": [
-      "rosary",
-      "concluding prayer",
-      "mysteries",
-      "marian",
-      "collect",
-      "mary"
-    ],
-    "text": "V. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.\n\nLet us pray.\nO God, whose only-begotten Son,\nby his life, death, and resurrection,\nhath purchased for us the rewards of eternal life;\ngrant, we beseech thee,\nthat meditating upon these mysteries\nof the most holy Rosary of the Blessed Virgin Mary,\nwe may imitate what they contain\nand obtain what they promise,\nthrough the same Christ our Lord.\nAmen.",
-    "language": "English (traditional)",
-    "source": "Collect for the feast of the Most Holy Rosary; traditional concluding prayer of the Rosary.",
-    "occasion": "Prayed at the very end of the Rosary, after the Hail Holy Queen."
-  },
-  {
     "id": "prayer-to-st-michael-the-archangel",
     "title": "Prayer to St. Michael the Archangel",
     "altTitles": [
@@ -1364,29 +1228,6 @@
     "occasion": "Prayed for protection and deliverance in times of danger, fear, illness, or trouble; bedtime and travel."
   },
   {
-    "id": "regina-caeli",
-    "title": "Regina Caeli",
-    "altTitles": [
-      "Queen of Heaven",
-      "Regina Coeli"
-    ],
-    "tradition": "Roman Catholic",
-    "category": "Marian",
-    "tags": [
-      "marian",
-      "regina caeli",
-      "easter",
-      "eastertide",
-      "resurrection",
-      "antiphon",
-      "mary"
-    ],
-    "text": "V. Queen of Heaven, rejoice, alleluia.\nR. For he whom thou didst merit to bear, alleluia,\n\nV. Hath risen, as he said, alleluia.\nR. Pray for us to God, alleluia.\n\nV. Rejoice and be glad, O Virgin Mary, alleluia.\nR. For the Lord hath risen indeed, alleluia.\n\nLet us pray.\nO God, who by the Resurrection of thy Son,\nour Lord Jesus Christ,\nhast vouchsafed to make glad the whole world;\ngrant, we beseech thee,\nthat through the intercession of the Virgin Mary, his Mother,\nwe may attain the joys of everlasting life.\nThrough the same Christ our Lord. Amen.",
-    "language": "English (traditional)",
-    "source": "Marian antiphon of medieval origin (12th century); traditional English translation. Replaces the Angelus during Eastertide.",
-    "occasion": "Prayed in place of the Angelus during Eastertide (from Easter to Pentecost); sung as the final Marian antiphon at Compline in this season; said standing."
-  },
-  {
     "id": "returning-thanks",
     "title": "Returning Thanks",
     "altTitles": [
@@ -1478,28 +1319,6 @@
     "language": "English (traditional)",
     "source": "Numbers 6:24-26, King James Version (1611), public domain. The blessing given by God to Aaron and his sons.",
     "occasion": "Pronounced as a benediction at the close of worship services; blessings over individuals and congregations."
-  },
-  {
-    "id": "the-angelus",
-    "title": "The Angelus",
-    "altTitles": [
-      "Angelus Domini",
-      "The Angel of the Lord"
-    ],
-    "tradition": "Roman Catholic",
-    "category": "Marian",
-    "tags": [
-      "marian",
-      "angelus",
-      "incarnation",
-      "annunciation",
-      "devotion",
-      "mary"
-    ],
-    "text": "V. The Angel of the Lord declared unto Mary.\nR. And she conceived of the Holy Ghost.\n\nHail Mary, full of grace, the Lord is with thee;\nblessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death. Amen.\n\nV. Behold the handmaid of the Lord.\nR. Be it done unto me according to thy word.\n\nHail Mary, full of grace, the Lord is with thee;\nblessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death. Amen.\n\nV. And the Word was made flesh.\nR. And dwelt among us.\n\nHail Mary, full of grace, the Lord is with thee;\nblessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death. Amen.\n\nV. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.\n\nLet us pray.\nPour forth, we beseech thee, O Lord,\nthy grace into our hearts;\nthat we, to whom the Incarnation of Christ thy Son\nwas made known by the message of an angel,\nmay by his Passion and Cross\nbe brought to the glory of his Resurrection.\nThrough the same Christ our Lord. Amen.",
-    "language": "English (traditional)",
-    "source": "Traditional devotion commemorating the Incarnation; concluding collect from the Roman Breviary (cf. Luke 1:28, 1:38; John 1:14).",
-    "occasion": "Prayed three times daily, at 6 a.m., noon, and 6 p.m.; said standing (or kneeling) outside of Eastertide."
   },
   {
     "id": "the-apostles-creed-2",
@@ -1728,28 +1547,6 @@
     "occasion": "Said as the concluding blessing of the Litany and other services"
   },
   {
-    "id": "the-hail-holy-queen-of-the-brown-scapular-devotion",
-    "title": "The Hail Holy Queen of the Brown Scapular Devotion",
-    "altTitles": [
-      "O Beautiful Flower of Carmel",
-      "Flos Carmeli"
-    ],
-    "tradition": "Roman Catholic",
-    "category": "Marian",
-    "tags": [
-      "marian",
-      "carmel",
-      "scapular",
-      "flos carmeli",
-      "mary",
-      "devotion"
-    ],
-    "text": "O beautiful Flower of Carmel,\nmost fruitful vine,\nsplendour of Heaven,\nholy and singular,\nwho broughtest forth the Son of God,\nstill ever remaining a pure virgin,\nassist me in this my necessity.\nO Star of the Sea,\nhelp and protect me.\nShow me that thou art my Mother.\nAmen.",
-    "language": "English (traditional)",
-    "source": "Flos Carmeli, traditionally attributed to St. Simon Stock (13th century); traditional English translation. A prayer of the Carmelite (Brown Scapular) devotion.",
-    "occasion": "Prayed by those enrolled in the Brown Scapular; on the feast of Our Lady of Mount Carmel (16 July) and in Carmelite Marian devotions."
-  },
-  {
     "id": "the-introduction-to-the-lord-s-prayer",
     "title": "The Introduction to the Lord's Prayer",
     "altTitles": [
@@ -1793,28 +1590,6 @@
     "language": "English (traditional)",
     "source": "Drawn from the publican's prayer (Luke 18:13) and the cry of the blind man (Luke 18:38); central to the hesychast tradition and The Philokalia",
     "occasion": "Prayed repeatedly and unceasingly throughout the day, often on a prayer rope (komboskini); the heart of personal Orthodox devotion"
-  },
-  {
-    "id": "the-litany-of-loreto",
-    "title": "The Litany of Loreto",
-    "altTitles": [
-      "Litany of the Blessed Virgin Mary",
-      "Litany of Our Lady"
-    ],
-    "tradition": "Roman Catholic",
-    "category": "Marian",
-    "tags": [
-      "marian",
-      "litany",
-      "loreto",
-      "litany of loreto",
-      "invocations",
-      "mary"
-    ],
-    "text": "Lord, have mercy on us.\nChrist, have mercy on us.\nLord, have mercy on us.\nChrist, hear us. Christ, graciously hear us.\nGod the Father of heaven, have mercy on us.\nGod the Son, Redeemer of the world, have mercy on us.\nGod the Holy Ghost, have mercy on us.\nHoly Trinity, one God, have mercy on us.\n\nHoly Mary, pray for us.\nHoly Mother of God, pray for us.\nHoly Virgin of virgins, pray for us.\nMother of Christ, pray for us.\nMother of divine grace, pray for us.\nMother most pure, pray for us.\nMother most chaste, pray for us.\nMother inviolate, pray for us.\nMother undefiled, pray for us.\nMother most amiable, pray for us.\nMother most admirable, pray for us.\nMother of good counsel, pray for us.\nMother of our Creator, pray for us.\nMother of our Saviour, pray for us.\nVirgin most prudent, pray for us.\nVirgin most venerable, pray for us.\nVirgin most renowned, pray for us.\nVirgin most powerful, pray for us.\nVirgin most merciful, pray for us.\nVirgin most faithful, pray for us.\nMirror of justice, pray for us.\nSeat of wisdom, pray for us.\nCause of our joy, pray for us.\nSpiritual vessel, pray for us.\nVessel of honour, pray for us.\nSingular vessel of devotion, pray for us.\nMystical rose, pray for us.\nTower of David, pray for us.\nTower of ivory, pray for us.\nHouse of gold, pray for us.\nArk of the covenant, pray for us.\nGate of heaven, pray for us.\nMorning star, pray for us.\nHealth of the sick, pray for us.\nRefuge of sinners, pray for us.\nComforter of the afflicted, pray for us.\nHelp of Christians, pray for us.\nQueen of angels, pray for us.\nQueen of patriarchs, pray for us.\nQueen of prophets, pray for us.\nQueen of apostles, pray for us.\nQueen of martyrs, pray for us.\nQueen of confessors, pray for us.\nQueen of virgins, pray for us.\nQueen of all saints, pray for us.\nQueen conceived without original sin, pray for us.\nQueen assumed into heaven, pray for us.\nQueen of the most holy Rosary, pray for us.\nQueen of peace, pray for us.\n\nLamb of God, who takest away the sins of the world,\nspare us, O Lord.\nLamb of God, who takest away the sins of the world,\ngraciously hear us, O Lord.\nLamb of God, who takest away the sins of the world,\nhave mercy on us.\n\nV. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.",
-    "language": "English (traditional)",
-    "source": "Litany of Loreto, approved 1587 (Sixtus V); named for the shrine of Loreto. Text given here in its traditional form; this is the full set of invocations as customarily prayed.",
-    "occasion": "Prayed in honour of the Blessed Virgin Mary, especially after the Rosary, during May and October devotions, and at Marian feasts."
   },
   {
     "id": "the-lord-s-prayer-2",
@@ -1931,27 +1706,6 @@
     "language": "English (traditional)",
     "source": "Luke 1:46–55; traditional English text from the Book of Common Prayer (1662).",
     "occasion": "The Gospel canticle sung daily at Vespers (Evensong); prayed on the feasts of the Blessed Virgin Mary."
-  },
-  {
-    "id": "the-memorare",
-    "title": "The Memorare",
-    "altTitles": [
-      "Remember, O most gracious Virgin Mary",
-      "Memorare"
-    ],
-    "tradition": "Roman Catholic",
-    "category": "Marian",
-    "tags": [
-      "marian",
-      "memorare",
-      "intercession",
-      "mary",
-      "prayer to mary"
-    ],
-    "text": "Remember, O most gracious Virgin Mary,\nthat never was it known\nthat anyone who fled to thy protection,\nimplored thy help, or sought thine intercession,\nwas left unaided.\nInspired by this confidence,\nI fly unto thee, O Virgin of virgins, my Mother;\nto thee do I come, before thee I stand,\nsinful and sorrowful.\nO Mother of the Word Incarnate,\ndespise not my petitions,\nbut in thy mercy hear and answer me.\nAmen.",
-    "language": "English (traditional)",
-    "source": "Prayer popularized by St. Francis de Sales (17th century); long attributed in tradition to St. Bernard of Clairvaux.",
-    "occasion": "Prayed in time of need, distress, or when seeking the Blessed Virgin's intercession; a common daily Marian devotion."
   },
   {
     "id": "the-nicene-creed-2",
@@ -2247,71 +2001,75 @@
     "occasion": "Pentecost; invocation of the Holy Spirit before worship, preaching, or instruction"
   },
   {
-    "id": "we-fly-to-thy-protection",
-    "title": "We Fly to Thy Protection",
+    "id": "st-patrick-s-breastplate",
+    "title": "St. Patrick's Breastplate",
     "altTitles": [
-      "Sub Tuum Praesidium",
-      "Beneath Thy Protection",
-      "We Fly to Thy Patronage"
+      "The Lorica",
+      "I Bind Unto Myself Today",
+      "The Deer's Cry"
     ],
-    "tradition": "Roman Catholic",
-    "category": "Marian",
+    "tradition": "Common",
+    "category": "Devotional",
     "tags": [
-      "marian",
-      "sub tuum praesidium",
       "protection",
-      "intercession",
-      "ancient",
-      "mary"
+      "spiritual warfare",
+      "trinity",
+      "deliverance",
+      "evil",
+      "st patrick",
+      "lorica",
+      "breastplate"
     ],
-    "text": "We fly to thy protection,\nO holy Mother of God;\ndespise not our petitions\nin our necessities,\nbut deliver us always\nfrom all dangers,\nO glorious and blessed Virgin.\nAmen.",
+    "text": "I bind unto myself today\nthe strong Name of the Trinity,\nby invocation of the same,\nthe Three in One, and One in Three.\n\nChrist be with me, Christ within me,\nChrist behind me, Christ before me,\nChrist beside me, Christ to win me,\nChrist to comfort and restore me,\nChrist beneath me, Christ above me,\nChrist in quiet, Christ in danger,\nChrist in hearts of all that love me,\nChrist in mouth of friend and stranger.\n\nI bind unto myself the Name,\nthe strong Name of the Trinity,\nby invocation of the same,\nthe Three in One, and One in Three,\nof whom all nature hath creation,\neternal Father, Spirit, Word:\npraise to the Lord of my salvation,\nsalvation is of Christ the Lord. Amen.",
     "language": "English (traditional)",
-    "source": "Sub Tuum Praesidium; the oldest known prayer to the Blessed Virgin Mary (Greek text on the Rylands Papyrus, c. 3rd century).",
-    "occasion": "Prayed for protection and intercession; used in times of danger and as a concluding antiphon in various devotions."
+    "source": "Ancient Irish hymn (the 'Lorica' or breastplate) attributed to St. Patrick (5th century); versified by Cecil Frances Alexander (1889), public domain.",
+    "occasion": "A prayer of protection and spiritual warfare, invoking Christ as a defence against evil and the snares of the devil; morning prayer and times of danger."
   },
   {
-    "id": "westminster-shorter-catechism-question-1",
-    "title": "Westminster Shorter Catechism, Question 1",
+    "id": "the-lord-s-my-shepherd-scottish-psalter",
+    "title": "The Lord's My Shepherd (Psalm 23)",
     "altTitles": [
-      "The Chief End of Man",
-      "Westminster Q1"
+      "Scottish Metrical Psalm 23",
+      "The Lord's My Shepherd, I'll Not Want",
+      "Crimond"
     ],
     "tradition": "Presbyterian",
-    "category": "Penitential",
+    "category": "Psalm",
     "tags": [
-      "westminster",
-      "catechism",
-      "chief end",
-      "glorify god",
-      "presbyterian",
-      "confession",
-      "purpose"
+      "psalm 23",
+      "shepherd",
+      "scottish psalter",
+      "metrical psalm",
+      "comfort",
+      "trust",
+      "presbyterian"
     ],
-    "text": "Q. What is the chief end of man?\n\nA. Man's chief end is to glorify God, and to enjoy him for ever.",
+    "text": "The Lord's my Shepherd, I'll not want;\nHe makes me down to lie\nin pastures green; He leadeth me\nthe quiet waters by.\n\nMy soul He doth restore again,\nand me to walk doth make\nwithin the paths of righteousness,\ne'en for His own name's sake.\n\nYea, though I walk in death's dark vale,\nyet will I fear none ill;\nfor Thou art with me, and Thy rod\nand staff me comfort still.\n\nMy table Thou hast furnishèd\nin presence of my foes;\nmy head Thou dost with oil anoint,\nand my cup overflows.\n\nGoodness and mercy all my life\nshall surely follow me;\nand in God's house for evermore\nmy dwelling-place shall be.",
     "language": "English (traditional)",
-    "source": "Westminster Shorter Catechism (1647), Question 1",
-    "occasion": "Catechetical instruction; confession of the purpose of human life"
+    "source": "Scottish Psalter (1650), metrical version of Psalm 23; commonly sung to the tune 'Crimond.' Public domain.",
+    "occasion": "Sung in Presbyterian and Reformed worship; at communion, funerals, and in times of comfort and trust."
   },
   {
-    "id": "westminster-shorter-catechism-question-4",
-    "title": "Westminster Shorter Catechism, Question 4",
+    "id": "all-people-that-on-earth-do-dwell",
+    "title": "All People That on Earth Do Dwell (Psalm 100)",
     "altTitles": [
-      "What is God?",
-      "Westminster Q4"
+      "Old Hundredth",
+      "Scottish Metrical Psalm 100"
     ],
     "tradition": "Presbyterian",
-    "category": "Penitential",
+    "category": "Psalm",
     "tags": [
-      "westminster",
-      "catechism",
-      "attributes of god",
-      "presbyterian",
-      "confession",
-      "doctrine of god"
+      "psalm 100",
+      "praise",
+      "old hundredth",
+      "metrical psalm",
+      "thanksgiving",
+      "worship",
+      "presbyterian"
     ],
-    "text": "Q. What is God?\n\nA. God is a Spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness, and truth.",
+    "text": "All people that on earth do dwell,\nsing to the Lord with cheerful voice;\nHim serve with fear, His praise forth tell,\ncome ye before Him and rejoice.\n\nThe Lord, ye know, is God indeed;\nwithout our aid He did us make;\nwe are His folk, He doth us feed,\nand for His sheep He doth us take.\n\nO enter then His gates with praise,\napproach with joy His courts unto;\npraise, laud, and bless His name always,\nfor it is seemly so to do.\n\nFor why? the Lord our God is good,\nHis mercy is for ever sure;\nHis truth at all times firmly stood,\nand shall from age to age endure.",
     "language": "English (traditional)",
-    "source": "Westminster Shorter Catechism (1647), Question 4",
-    "occasion": "Catechetical instruction; confession concerning the nature of God"
+    "source": "Metrical Psalm 100 by William Kethe (1561), from the Anglo-Genevan and Scottish Psalters; sung to the 'Old Hundredth.' Public domain.",
+    "occasion": "An opening psalm of praise and a call to worship in Presbyterian and Reformed services; thanksgiving."
   }
 ]
